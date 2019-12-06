@@ -1,0 +1,30 @@
+<!-- 
+  This line means, use default.hbs layout from src/html/layouts/
+-->
+
+{{!< default}}
+
+<!-- 
+  Put some content into an .hbs file inside of /partials, 
+  and you can just throw it in anywhere!
+-->
+{{!-- {{> story/header }} --}}
+
+{{> story/basic }}
+
+<!-- 
+  Charts are exactly the same.
+-->
+
+{{> story/chart }}
+
+<!-- 
+  If you want to use something exported from ai2html...
+    1. Rename the exported .html file to .hbs
+    2. Put the .hbs file inside of 'html/story'
+    3. Move the exported images to the images folder
+    4. Include the partial normally like below
+  -->
+
+{{> story/header }}
+

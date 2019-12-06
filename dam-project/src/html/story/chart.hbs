@@ -1,0 +1,49 @@
+{{!-- <div class="story-body">
+    <h2>Here is a chart</h2>
+    <p>I have the <code>script</code> tag that points to <code>chart-01.js</code> inside of this partial</p>
+    <div id="chart-1"></div>
+</div> --}}
+
+<div class='map-container'>
+
+  <div class='map-head'>
+      <h2>Across America, aging dams sit neglected</h2>
+      <p>Over 1,680 dams are in poor condition and considered hazardous, meaning their failure is likely to kill at least one person. Search the states and counties with dangerous dams.</p>
+  </div>
+
+  <div class='dropdown'>
+    <select id='state-select'>
+      <option selected="selected">
+        State
+      </option>
+    </select>
+
+    <select id='county-select'>
+      <option selected="selected">
+        County
+      </option>
+    </select>
+  </div>
+
+  <div class="col-7">
+      {{!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+      integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+      crossorigin="" />
+      <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+      <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">  --}}
+
+      
+      <!-- Make sure you put this AFTER Leaflet's CSS -->
+
+      <div id="mapid"></div>
+  </div>
+  <p class='source'>Note: Data unavailable for Alabama, Illinois, Maryland, New Jersey, Texas and Iowa. Source: Data obtained through state open-records requests by the Associated Press.</p>
+</div>
+
+
+<script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.35.1/mapbox-gl.js"></script>
+<script src="scripts/chart-01.js"></script>

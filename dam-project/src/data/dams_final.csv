@@ -1,0 +1,1262 @@
+dam_name,county,state,condition_assessment_standardized,hazard_standardized,last_inspection_date,year_dam_completed,latitude,longitude,state2
+Alitak Cannery Dam #1,Kodiak Island Borough_AK,AK,poor,high,2015-08-20,1917,56.9,-154.24,Alaska
+Hess Creek Dam,Yukon Flats Reaa_AK,AK,poor,high,2012-09-06,1946,65.59333000000001,-148.3916,Alaska
+Meals Lake Dam,Chugach Reaa_AK,AK,poor,high,2017-10-02,1972,60.531666,-145.75,Alaska
+Balboa Lake Dam,Garland_AR,AR,poor,high,2017-01-30,1986,34.626389,-92.8972219999999,Arkansas
+Broadmoor Lake Dam,Pulaski_AR,AR,poor,high,2017-03-23,1952,34.7266669999999,-92.343333,Arkansas
+Clearwater Lake Dam,Hot Spring_AR,AR,poor,high,2017-03-23,1948,34.466667,-92.79333299999999,Arkansas
+Deer Run Lake Dam,Sharp_AR,AR,unsatisfactory,high,2016-07-01,1978,36.045,-91.632778,Arkansas
+Echols Lake Dam,Sebastian_AR,AR,unsatisfactory,high,2017-06-06,1946,35.3599999999999,-94.386667,Arkansas
+Florence Dam,Pulaski_AR,AR,unsatisfactory,high,2017-03-23,1950,34.719999999,-92.47333299999991,Arkansas
+Ginger Hill Lake Dam,Pulaski_AR,AR,poor,high,2017-05-11,1974,34.803333,-92.55333299999991,Arkansas
+Horsehead Lake Dam,Johnson_AR,AR,poor,high,2017-02-28,1950,35.5577779999999,-93.63388899999991,Arkansas
+Lake Atalanta Dam,Benton_AR,AR,poor,high,2017-04-05,1936,36.34,-94.0949999999999,Arkansas
+Lake Fayetteville,Washington_AR,AR,poor,high,2017-04-04,1949,36.136666999999996,-94.13833299999999,Arkansas
+Lake June Dam,Sharp_AR,AR,poor,high,2016-11-10,1956,36.2816669999999,-91.5183329999999,Arkansas
+Lake Kiwanie Dam,Sharp_AR,AR,poor,high,2016-11-10,1964,36.305,-91.50833299999991,Arkansas
+Lake Mena Dam,Polk_AR,AR,poor,high,2017-03-02,1949,34.5825,-94.19249999999991,Arkansas
+Lake Mirandy Dam,Sharp_AR,AR,poor,high,2016-10-10,1958,36.28,-91.520278,Arkansas
+Lake Pauline Dam,Saline_AR,AR,unsatisfactory,high,2017-03-01,1956,34.578333,-92.56,Arkansas
+Lake Poinsett Dam,Poinsett_AR,AR,poor,high,2017-06-29,1967,35.523333,-90.675556,Arkansas
+Lake Thunderbird Dam,Sharp_AR,AR,poor,high,2016-04-18,1962,36.305,-91.5333329999999,Arkansas
+Lakewood Lake No. 1 Dam,Pulaski_AR,AR,poor,high,2017-04-13,1925,34.7833329999999,-92.23999999999901,Arkansas
+Lower White Oak Dam,Ouachita_AR,AR,unsatisfactory,high,2016-06-08,1959,33.701667,-93.09666699999991,Arkansas
+Ludwig Lake Dam,Johnson_AR,AR,poor,high,2017-02-28,1950,35.5333329999999,-93.4558329999999,Arkansas
+Ola-Dale,Yell_AR,AR,poor,high,2016-07-25,1962,35.0316669999999,-93.23277799999991,Arkansas
+Paris Dam,Logan_AR,AR,poor,high,2016-08-08,1939,35.2749999999999,-93.726667,Arkansas
+Pebble Lake Dam,Saline_AR,AR,poor,high,2017-06-12,1962,34.6169439999999,-92.543056,Arkansas
+Rainbow Lake Dam,Sharp_AR,AR,unsatisfactory,high,2016-06-06,1961,36.321944,-91.479444,Arkansas
+Ricks Dam,Garland_AR,AR,poor,high,2017-07-13,1949,34.5661109999999,-93.0949999999999,Arkansas
+Sebastian Lake Dam,Sebastian_AR,AR,poor,high,2017-06-06,1963,35.2133329999999,-94.40333299999999,Arkansas
+Spring Lake Dam,Sharp_AR,AR,poor,high,2016-04-19,1960,36.2897219999999,-91.393056,Arkansas
+Vagabond Lake Dam,Sharp_AR,AR,poor,high,2016-04-19,1960,36.2833329999999,-91.37138899999991,Arkansas
+Wild Plum Lake Dam,Sharp_AR,AR,poor,high,2016-11-10,1961,36.273333,-91.526667,Arkansas
+Black Canyon,Navajo_AZ,AZ,poor,high,2018-05-09,1964,34.33083,-110.69806000000001,Arizona
+Buckeye Frs #1,Maricopa_AZ,AZ,poor,high,2017-10-24,1974,33.43278,-112.635,Arizona
+Central Detention,Graham_AZ,AZ,poor,high,2017-11-07,1948,32.768609999999995,-109.79972,Arizona
+Colter,Apache_AZ,AZ,poor,high,2017-10-12,1908,34.360279999999996,-109.41917,Arizona
+Cook Reservoir,Graham_AZ,AZ,unsatisfactory,high,2017-12-13,1940,32.77528,-109.72778000000001,Arizona
+Fool Hollow,Navajo_AZ,AZ,poor,high,2018-06-05,1956,34.27778,-110.07361000000002,Arizona
+Fredonia,Coconino_AZ,AZ,unsatisfactory,high,2018-05-22,1973,36.95417,-112.51472,Arizona
+Frye Mesa,Graham_AZ,AZ,poor,high,2018-04-05,1929,32.75417,-109.83361000000001,Arizona
+Green Road Basin,Pinal_AZ,AZ,unsatisfactory,high,2018-02-21,1995,32.8864,-112.0581,Arizona
+Jaques,Navajo_AZ,AZ,poor,high,2017-09-20,1953,34.19722,-110.0,Arizona
+Maricopa Road Basin,Pinal_AZ,AZ,unsatisfactory,high,2018-02-21,1995,32.8825,-112.0497,Arizona
+Millett Swale,Navajo_AZ,AZ,poor,high,2018-05-24,1958,34.43056,-110.04111,Arizona
+Odell,Coconino_AZ,AZ,poor,high,2017-07-26,1978,34.93306,-111.63306000000001,Arizona
+Stockton Wash Retarding,Graham_AZ,AZ,poor,high,2018-04-17,1964,32.79139,-109.68833000000001,Arizona
+Walnut Canyon,Coconino_AZ,AZ,poor,high,2017-10-25,1881,35.166109999999996,-111.47583,Arizona
+Matilija,Ventura_CA,CA,poor,high,2018-02-13,1949,34.4838,-119.3084,California
+Misselbeck,Shasta_CA,CA,poor,high,2017-10-23,1920,40.5003,-122.6971,California
+Moccasin Lower,Tuolumne_CA,CA,poor,high,2018-04-25,1930,37.8123,-120.3057,California
+North Fork,Santa Clara_CA,CA,poor,high,2017-11-06,1939,37.0498,-121.2921,California
+Oroville,Butte_CA,CA,unsatisfactory,high,2017-09-26,1968,39.5426,-121.4915,California
+Adobe Creek,Bent_CO,CO,unsatisfactory,high,2017-03-31,1904,38.234999,-103.280555,Colorado
+Apishapa,Las Animas_CO,CO,unsatisfactory,high,2017-07-27,1892,37.334998999999996,-104.77056,Colorado
+Big Battlement,Delta_CO,CO,unsatisfactory,high,2017-08-10,1949,38.994999,-108.05221999999999,Colorado
+Cucharas #5,Huerfano_CO,CO,unsatisfactory,high,2018-02-23,1913,37.748315999999996,-104.598293,Colorado
+Goose Pasture Tarn,Summit_CO,CO,unsatisfactory,high,2018-06-15,1965,39.454999,-106.03222,Colorado
+Grass Valley,Garfield_CO,CO,unsatisfactory,high,2018-04-02,1892,39.606669000000004,-107.66056,Colorado
+Jefferson Lake,Park_CO,CO,unsatisfactory,high,2017-08-31,1951,39.450559000000005,-105.8625,Colorado
+Leon Lake,Mesa_CO,CO,unsatisfactory,high,2017-07-27,1898,39.068385,-107.80221100000001,Colorado
+Red Mesa Ward,La Plata_CO,CO,unsatisfactory,high,2017-10-05,1915,37.166669,-108.14222,Colorado
+Sanchez,Costilla_CO,CO,unsatisfactory,high,2017-07-07,1911,37.113865999999994,-105.41063700000001,Colorado
+Skeel,Denver_CO,CO,unsatisfactory,high,2018-02-13,1900,39.656665000000004,-104.94388799999999,Colorado
+Smith,Jefferson_CO,CO,unsatisfactory,high,2018-03-02,1884,39.686771,-105.113413,Colorado
+South Lake,El Paso_CO,CO,unsatisfactory,high,2017-04-18,1973,38.784999,-104.81056,Colorado
+Tarryall,Park_CO,CO,unsatisfactory,high,2018-06-12,1929,39.223329,-105.60722,Colorado
+Teller,El Paso_CO,CO,unsatisfactory,high,2017-11-02,1910,38.449999,-104.83389,Colorado
+Two Buttes,Baca_CO,CO,unsatisfactory,high,2017-10-11,1908,37.635919,-102.538103,Colorado
+Upper Long Lake,Jefferson_CO,CO,unsatisfactory,high,2018-05-09,1939,39.822839,-105.23563899999999,Colorado
+Valley No. 1,El Paso_CO,CO,unsatisfactory,high,2017-04-18,1901,38.872499,-104.875,Colorado
+Valley No. 2,El Paso_CO,CO,unsatisfactory,high,2017-04-18,1906,38.86472,-104.88028,Colorado
+Vouga,Saguache_CO,CO,unsatisfactory,high,2018-05-24,1978,38.354999,-106.66389,Colorado
+Walsenburg City Lake,Huerfano_CO,CO,unsatisfactory,high,2018-06-06,1910,37.596669,-104.85722,Colorado
+Willow Springs #1,Jefferson_CO,CO,unsatisfactory,high,2018-02-14,1963,39.619136,-105.18049099999999,Colorado
+Y T Ranch,Mesa_CO,CO,unsatisfactory,high,2018-04-10,1911,39.186669,-107.89388999999998,Colorado
+Acme Pond Dam,Windham_CT,CT,poor,high,2014-12-16,1846,41.847117,-71.817674,Connecticut
+Crystal Lake Dam,Middlesex_CT,CT,poor,high,2016-10-18,1850,41.52491,-72.638086,Connecticut
+Freshwater Pond Dam,Hartford_CT,CT,poor,high,2014-09-04,1900,41.998535,-72.599696,Connecticut
+Great Hill Reservior Dam,New Haven_CT,CT,poor,high,2014-11-06,1909,41.375508,-73.13170699999999,Connecticut
+Hanover Reservoir Dam,New London_CT,CT,poor,high,2014-11-21,1900,41.647259000000005,-72.06059,Connecticut
+North Grosvenordale Dam,Windham_CT,CT,poor,high,2017-09-12,1900,41.991859999999996,-71.895232,Connecticut
+Oxoboxo Lake Dam,New London_CT,CT,poor,high,2016-12-07,1810,41.484653,-72.193208,Connecticut
+Staffordville Reservoir Dam,Tolland_CT,CT,poor,high,2013-12-27,1850,41.996399,-72.260059,Connecticut
+Sylvia'S Upper Pond Dam,New London_CT,CT,poor,high,1986-11-04,1870,41.360413,-71.909461,Connecticut
+Williams Pond Dam,Hartford_CT,CT,poor,high,2014-10-02,1900,41.704142,-72.596811,Connecticut
+Ingram Pond Dam,Sussex_DE,DE,poor,high,2017-05-02,0,38.588159999999995,-75.32668000000001,Delaware
+Millsboro Pond Dam,Sussex_DE,DE,poor,high,2017-05-08,1920,38.59448,-75.29099000000001,Delaware
+Moores Lake Dam,Kent_DE,DE,poor,high,2017-06-13,1967,39.126090000000005,-75.51846,Delaware
+Shoals Branch Dam,Sussex_DE,DE,poor,high,2017-05-02,0,38.57824,-75.34449000000001,Delaware
+Silver Lake Dam - Middletown,New Castle_DE,DE,poor,high,2017-06-20,1945,39.43801,-75.69339000000001,Delaware
+L.P.Hill Dam #2,Columbia_FL,FL,unsatisfactory,high,1994-05-13,1954,30.168221999999997,-82.603778,Florida
+L.P.Hill Dam 1,Columbia_FL,FL,unsatisfactory,high,1994-05-12,1966,30.171573,-82.60983399999999,Florida
+4-J Farms Lower Lake Dam,Crawford_GA,GA,poor,high,2013-01-31,1974,32.61492,-83.94091,Georgia
+Athens Waterworks Reservoir Dam,Clarke_GA,GA,poor,high,2017-03-22,1918,33.979167,-83.374444,Georgia
+Atlanta Reservoir Dam No. 1,Fulton_GA,GA,poor,high,2017-07-05,1960,33.79425,-84.411528,Georgia
+Baughs Crossroad Lake Dam,Troup_GA,GA,poor,high,2016-03-23,0,32.92,-85.05,Georgia
+Bedgood'S Lake Dam,Clarke_GA,GA,poor,high,2013-02-14,1940,33.94719,-83.49779000000001,Georgia
+Belair Lake Dam,Henry_GA,GA,poor,high,2016-01-12,0,33.575278000000004,-84.21583299999999,Georgia
+Berry Reservoir Dam,Floyd_GA,GA,poor,high,2017-03-16,1938,34.325556,-85.263889,Georgia
+Big Cedar Creek Ws Str # 32,Polk_GA,GA,poor,high,2016-01-26,0,33.9325,-85.267778,Georgia
+Big Cedar Creek Ws Str # 41,Polk_GA,GA,poor,high,2016-01-26,1986,33.937778,-85.21777800000001,Georgia
+Big Cedar Creek Ws Str # 48,Polk_GA,GA,poor,high,2016-03-24,1986,33.95151,-85.19098000000001,Georgia
+Black Rock Mountain Lake Dam,Rabun_GA,GA,poor,high,2016-03-10,1974,34.923840000000006,-83.41216,Georgia
+Blackmon Lake Dam,Muscogee_GA,GA,poor,high,2017-03-08,1955,32.57438,-85.00992,Georgia
+Boleman Hill Road Pond Dam,Hart_GA,GA,poor,high,2013-02-21,1989,34.449417,-82.94255600000001,Georgia
+Bradbury Lake Dam,Fayette_GA,GA,poor,high,2017-01-19,1958,33.505694,-84.522389,Georgia
+Bull Creek Ws Str # 12,Muscogee_GA,GA,poor,high,2017-01-31,1962,32.54634,-84.91468,Georgia
+Bull Creek Ws Str # 14,Muscogee_GA,GA,poor,high,2017-01-31,1969,32.53417,-84.94100999999999,Georgia
+Burdine'S Pond Dam,Fannin_GA,GA,poor,high,2016-03-01,1965,34.833472,-84.36236099999999,Georgia
+Burgess Lake Dam,Troup_GA,GA,poor,high,2016-03-23,0,32.928611,-84.893056,Georgia
+Carriage Lake Dam,Fulton_GA,GA,poor,high,2016-02-04,1974,33.985875,-84.288011,Georgia
+Cartecay River Ws Str # 3,Gilmer_GA,GA,poor,high,2016-03-30,1965,34.671079999999996,-84.31752,Georgia
+Cartecay River Ws Str # 5,Gilmer_GA,GA,poor,high,2016-03-30,1967,34.667778000000006,-84.286111,Georgia
+Cartecay River Ws Str # 6,Gilmer_GA,GA,poor,high,2016-03-30,1962,34.63747,-84.25655,Georgia
+Cartecay River Ws Str # 7,Gilmer_GA,GA,poor,high,2016-03-30,1964,34.62508,-84.2335,Georgia
+Chastain Lake Dam (Lower-East),Cobb_GA,GA,poor,high,2016-03-15,1954,34.04,-84.551389,Georgia
+Chastain Lake Dam (Upper-West),Cobb_GA,GA,poor,high,2016-03-15,1952,34.041944,-84.556944,Georgia
+Clark Apple Orchard #3,Habersham_GA,GA,poor,high,2016-03-09,0,34.57195,-83.60421,Georgia
+Clear Lake Dam,White_GA,GA,poor,high,2013-02-06,0,34.60722,-83.74659,Georgia
+Cochran Lake Dam,Cobb_GA,GA,unsatisfactory,high,2016-02-10,0,34.04423,-84.44527,Georgia
+Conasauga Lake Dam,Floyd_GA,GA,poor,high,2017-03-16,1951,34.288333,-85.23472199999999,Georgia
+Cowan Lake Dam,Rockdale_GA,GA,poor,high,2016-01-20,1956,33.601110999999996,-84.039167,Georgia
+Dalton Utilities Impoundment Dike #3,Whitfield_GA,GA,poor,high,2017-08-17,0,34.789429999999996,-84.87576,Georgia
+Daniels & Thomaselli Lake Dam,Fulton_GA,GA,poor,high,2016-02-17,1950,34.044103,-84.203317,Georgia
+Dobbs Lake Dam,Cobb_GA,GA,poor,high,2017-01-12,1950,33.907139,-84.669744,Georgia
+East Point Reservoir Dam,Fulton_GA,GA,poor,high,2017-01-19,1965,33.697139,-84.542556,Georgia
+Edmondson Lake Dam,Troup_GA,GA,poor,high,2016-03-23,0,32.95384,-84.88951999999999,Georgia
+Ellijay River W/S Str.  # 11,Gilmer_GA,GA,poor,high,2016-03-01,1967,34.826240000000006,-84.36847,Georgia
+Ellijay River W/S Str. # 3 Dam,Gilmer_GA,GA,poor,high,2016-03-01,1967,34.78302,-84.45361,Georgia
+Ellijay River W/S Str. #4 Dam,Gilmer_GA,GA,poor,high,2016-03-01,1968,34.78756,-84.42666700000001,Georgia
+Ellijay River Ws Str # 10,Gilmer_GA,GA,poor,high,2016-03-01,1970,34.7846,-84.4026,Georgia
+Ellijay River Ws Str # 12,Gilmer_GA,GA,poor,high,2016-03-01,1968,34.81054,-84.35593,Georgia
+Ellijay River Ws Str # 9,Gilmer_GA,GA,poor,high,2016-03-02,1967,34.78003,-84.37666999999999,Georgia
+Erin Lake  Dam,Dekalb_GA,GA,poor,high,2017-03-16,1960,33.867329999999995,-84.2303,Georgia
+Erin'S Place Lake Dam,Columbia_GA,GA,poor,high,2017-03-16,1965,33.432140000000004,-82.21895,Georgia
+Euharlee Creek Ws Str # 4,Polk_GA,GA,poor,high,2016-03-24,1968,33.94,-85.153889,Georgia
+Forest Hills Lake Dam,Richmond_GA,GA,poor,high,2017-02-02,1986,33.478333,-82.059722,Georgia
+Fowler Lake Dam,Gilmer_GA,GA,poor,high,2016-03-02,1968,34.786111,-84.48,Georgia
+Frank C. Amerson Jr. Lake Dam,Bibb_GA,GA,poor,high,2016-03-09,1987,32.892222,-83.73944399999999,Georgia
+Glen Emerald Lake Dam,Dekalb_GA,GA,poor,high,2017-02-15,1940,33.7133,-84.33288,Georgia
+Glenn Lake Dam,Murray_GA,GA,poor,high,2017-03-09,0,34.743611,-84.736111,Georgia
+Glenover Drive Lake Dam,Fulton_GA,GA,poor,high,2017-01-31,0,34.140556,-84.332778,Georgia
+Goshen Plantation Lake Dam,Richmond_GA,GA,poor,high,2014-03-13,1950,33.3341,-81.9989,Georgia
+Grandview Lake Dam,Pickens_GA,GA,poor,high,2017-01-10,1946,34.500556,-84.39893000000001,Georgia
+Graves Lake Dam,Fayette_GA,GA,poor,high,2016-02-09,1972,33.275,-84.448611,Georgia
+Harrison Lake Dam,Gilmer_GA,GA,poor,high,2016-03-02,0,34.737559999999995,-84.46967,Georgia
+Hazel Creek W/S Str. #19,Habersham_GA,GA,poor,high,2016-03-10,1962,34.58827,-83.48331999999999,Georgia
+Hazel Creek Ws Str # 7,Habersham_GA,GA,poor,high,2016-08-03,1962,34.53307,-83.51033000000001,Georgia
+Hightower Creek Ws Str # 13,Towns_GA,GA,poor,high,2016-03-16,1960,34.96709,-83.60418,Georgia
+Hogans Lake Dam,Gwinnett_GA,GA,poor,high,2016-02-25,0,34.001667,-83.966667,Georgia
+Hulsey Pond Dam,Candler_GA,GA,poor,high,2013-01-23,0,32.41872,-82.0838,Georgia
+Hunnicutt Lake Dam,Colquitt_GA,GA,poor,high,2013-01-22,2007,31.176111,-83.821389,Georgia
+Imerys 5C Clay Impoundment Dam,Washington_GA,GA,poor,high,2017-03-07,1980,33.03642,-82.89908,Georgia
+Indian Lake Dam,Colquitt_GA,GA,poor,high,2013-01-22,1956,31.22788,-83.74971,Georgia
+Irene Lake Dam,Fulton_GA,GA,poor,high,2017-01-31,1967,34.085190000000004,-84.38695,Georgia
+J. Stephens Lake Dam,Gilmer_GA,GA,poor,high,2016-03-02,1978,34.71705,-84.47837,Georgia
+Jackson Creek Lake Dam,Cobb_GA,GA,poor,high,2016-02-09,0,33.991111,-84.391111,Georgia
+Keeter Lake Dam,Cherokee_GA,GA,poor,high,2017-03-15,0,34.189528,-84.515556,Georgia
+Kiker Lake Dam,Gilmer_GA,GA,poor,high,2016-03-03,1988,34.647472,-84.51141700000001,Georgia
+Kings Cliff Lake Dam,Dekalb_GA,GA,poor,high,2017-04-07,0,33.85771,-84.25952,Georgia
+Kozisek Lake Dam,Fayette_GA,GA,poor,high,2017-01-19,1960,33.493583,-84.454972,Georgia
+Lake Ashley Dam,Carroll_GA,GA,poor,high,2016-01-26,1972,33.65765,-84.923417,Georgia
+Lake At Ansley Dam,Fulton_GA,GA,poor,high,2017-01-31,2000,34.085833,-84.40527800000001,Georgia
+Lake Cindy Dam,Henry_GA,GA,poor,high,2017-02-16,1961,33.41149,-84.30203,Georgia
+Lake Dow Dam,Henry_GA,GA,poor,high,2016-01-27,1974,33.446667,-84.07305600000001,Georgia
+Lake Dow North Dam,Henry_GA,GA,poor,high,2016-01-27,1989,33.46553,-84.06459,Georgia
+Lake Erma Dam,Henry_GA,GA,poor,high,2017-02-01,1961,33.456944,-84.262222,Georgia
+Lake Forrest Dam,Fulton_GA,GA,poor,high,2016-02-11,0,33.881028,-84.38730600000001,Georgia
+Lake Franklin Dam,Harris_GA,GA,poor,high,2017-02-01,1935,32.82741,-84.77665999999999,Georgia
+Lake George Dam,Carroll_GA,GA,poor,high,2016-01-26,1968,33.6153,-84.96600000000001,Georgia
+Lake Kathy Dam,Whitfield_GA,GA,poor,high,2017-03-09,1950,34.89846,-85.00739,Georgia
+Lake Rockdale Dam,Rockdale_GA,GA,poor,high,2016-01-20,1961,33.704167,-83.979722,Georgia
+Lake Swan Dam,Paulding_GA,GA,poor,high,2017-01-12,1989,33.84895,-84.81728000000001,Georgia
+Lake Wildwood Dam,Bibb_GA,GA,poor,high,2017-08-29,1970,32.86894,-83.763056,Georgia
+Lakefield Commons Lake Dam,Rockdale_GA,GA,poor,high,2016-01-20,1950,33.638611,-84.01083299999999,Georgia
+Lakeside Dam,Bibb_GA,GA,poor,high,2016-03-08,1890,32.84537,-83.57728,Georgia
+Lakeview Plantation Dam,Gwinnett_GA,GA,poor,high,2016-01-27,0,33.89522,-83.89412,Georgia
+Laura Lake Dam,Cobb_GA,GA,poor,high,2016-03-15,1951,34.005944,-84.554778,Georgia
+Lawson Lake Dam,Monroe_GA,GA,poor,high,2016-03-08,0,32.968333,-83.733056,Georgia
+Little River W/S  Str. #34,Fulton_GA,GA,poor,high,2017-01-31,1964,34.108056,-84.35333299999999,Georgia
+Little River W/S Str. #25,Fulton_GA,GA,poor,high,2017-01-31,1960,34.15675,-84.30343,Georgia
+Little River Watershed Structure No. 31,Fulton_GA,GA,poor,high,2017-06-07,1962,34.128056,-84.295278,Georgia
+Little River Ws Str # 39,Fulton_GA,GA,poor,high,2017-01-31,1953,34.083139,-84.39608299999999,Georgia
+Little Sandy Trail Creek Ws Str # 1,Madison_GA,GA,poor,high,2017-01-24,1971,34.101944,-83.348056,Georgia
+Little Sandy-Trail Creek W/S Str. #2,Madison_GA,GA,poor,high,2017-01-24,1971,34.09867,-83.36806,Georgia
+Long Swamp Creek Ws Str # 14,Pickens_GA,GA,poor,high,2017-01-25,1964,34.42433,-84.29733,Georgia
+Long Swamp Creek Ws Str # 8,Pickens_GA,GA,poor,high,2017-01-25,1964,34.44104,-84.33051,Georgia
+Long Swamp Creek Ws Str # 9,Pickens_GA,GA,poor,high,2017-01-25,1967,34.45406,-84.35423,Georgia
+Lookout Lake Dam,Dade_GA,GA,poor,high,2017-03-16,1951,34.80607,-85.47733000000001,Georgia
+Lovejoy Lake Dam,Gilmer_GA,GA,poor,high,2016-03-02,1970,34.67907,-84.40311,Georgia
+Lower Little Tallapoosa Ws Str # 78,Haralson_GA,GA,poor,high,2017-01-18,1974,33.694417,-85.11775,Georgia
+Lower Yarbrough Lake Dam,Washington_GA,GA,poor,high,2017-03-07,1960,32.97978,-82.77614,Georgia
+Margaret Phillips Lake Dam,Fayette_GA,GA,poor,high,2017-01-19,1960,33.497778000000004,-84.452861,Georgia
+Mcclendon Lake Dam,Haralson_GA,GA,poor,high,2017-02-09,0,33.731722,-85.131389,Georgia
+Mcknight Lake Dam,Coweta_GA,GA,poor,high,2016-02-09,1972,33.26324,-84.56727,Georgia
+Melody Lakes Dam,Harris_GA,GA,poor,high,2017-03-09,1925,32.69748,-84.71723,Georgia
+Mill Glen Lake Dam,Douglas_GA,GA,poor,high,2016-01-14,0,33.702778,-84.751667,Georgia
+Mill-Canton Creek W/S Str. # 6,Cherokee_GA,GA,poor,high,2017-01-31,1964,34.17066,-84.44969,Georgia
+Moon Lake Dam,Henry_GA,GA,poor,high,2017-02-01,0,33.463440000000006,-84.16045,Georgia
+Mountaintown Creek Ws Str # 1,Gilmer_GA,GA,poor,high,2016-03-03,1965,34.78743,-84.53245,Georgia
+Mountaintown Creek Ws Str # 2,Gilmer_GA,GA,poor,high,2016-03-03,1961,34.811389,-84.55444399999999,Georgia
+Mountaintown Creek Ws Str # 4,Gilmer_GA,GA,poor,high,2016-03-30,1961,34.726,-84.63816,Georgia
+N. Ga. Rendering Plant Oxidation Pond Dam,Forsyth_GA,GA,poor,high,2017-03-28,1960,34.280833,-84.053611,Georgia
+Nelson Hill Subdivision Lake Dam,Lowndes_GA,GA,poor,high,2013-01-23,0,30.924166999999997,-83.323611,Georgia
+Nicholson Lake Dam,Clayton_GA,GA,poor,high,2016-01-12,1943,33.584444,-84.274722,Georgia
+Noonday Creek Ws Str # 17,Cobb_GA,GA,poor,high,2016-03-16,1956,34.07585,-84.55301999999999,Georgia
+Noonday Creek Ws Str # 4,Cobb_GA,GA,poor,high,2016-03-15,0,34.06395,-84.54451,Georgia
+North Fork Broad River Ws Str # 1,Stephens_GA,GA,poor,high,2016-03-10,1958,34.571028000000005,-83.3637,Georgia
+North Fork Broad River Ws Str # 13,Stephens_GA,GA,poor,high,2013-02-21,1956,34.49905,-83.23629,Georgia
+North Fork Broad River Ws Str # 5,Stephens_GA,GA,poor,high,2013-02-21,1955,34.475,-83.253889,Georgia
+Odom Lake Dam,Worth_GA,GA,poor,high,2013-01-22,1965,31.540306,-83.866794,Georgia
+Palmetto Creek Structure # 1 Dam,Harris_GA,GA,poor,high,2017-03-08,1960,32.788056,-84.863333,Georgia
+Parker Lake Dam,Whitfield_GA,GA,poor,high,2016-03-22,1981,34.635,-84.97027800000001,Georgia
+Pegamore Lake Dam,Paulding_GA,GA,poor,high,2017-03-21,1964,34.00671,-84.93128,Georgia
+Pfau Lake Dam,White_GA,GA,poor,high,2013-02-06,0,34.582221999999994,-83.731944,Georgia
+Piedmont Lake Dam,Harris_GA,GA,poor,high,2017-04-08,0,32.800278000000006,-85.001667,Georgia
+Pine Log Creek Dam No. 86,Gordon_GA,GA,poor,high,2016-03-22,0,34.4846,-84.85865,Georgia
+Pine Log Creek Watershed Str #66,Bartow_GA,GA,poor,high,2016-03-22,1969,34.308611,-84.726111,Georgia
+Plantation Subdivision Lake Dam,Douglas_GA,GA,poor,high,2016-01-14,0,33.686944,-84.73208299999999,Georgia
+Posey Lake Dam,Rabun_GA,GA,poor,high,2016-03-10,0,34.978982,-83.453284,Georgia
+Potato Creek W/S Str. #66,Pike_GA,GA,poor,high,2017-02-16,1961,33.06751,-84.29029,Georgia
+Pumpkinvine Creek  Ws Str  # 50,Paulding_GA,GA,poor,high,2017-01-12,1958,33.89775,-84.85843,Georgia
+Pumpkinvine Creek W/S Str. # 2 Dam,Bartow_GA,GA,poor,high,2017-03-21,1954,34.09313,-84.80404,Georgia
+Pumpkinvine Creek W/S Str. # 3,Paulding_GA,GA,poor,high,2017-01-12,1955,33.927222,-84.82583299999999,Georgia
+Pumpkinvine Creek W/S Str. #26,Paulding_GA,GA,poor,high,2017-01-12,1958,33.859444,-84.871667,Georgia
+Pumpkinvine Creek Ws Str #1,Paulding_GA,GA,poor,high,2017-03-21,1954,34.082221999999994,-84.79333299999999,Georgia
+Rainbow Lake Dam,Gilmer_GA,GA,poor,high,2016-03-03,1960,34.749829999999996,-84.60313000000001,Georgia
+Rainbow Lake Dam,Lumpkin_GA,GA,poor,high,2016-03-09,1984,34.625417,-83.973889,Georgia
+Ridge Brooke Lake Dam,Paulding_GA,GA,poor,high,2017-01-12,0,33.80614,-84.84891999999999,Georgia
+Rocky Comfort W/S Str. #50,Warren_GA,GA,poor,high,2017-02-01,1968,33.4225,-82.666944,Georgia
+Roskin Lake Dam,Lumpkin_GA,GA,poor,high,2016-03-17,0,34.44167,-83.95444,Georgia
+Sallacoa Creek Watershed Dam #77,Gordon_GA,GA,unsatisfactory,high,2016-03-22,1973,34.52632,-84.69771999999999,Georgia
+Sandy Creek Ws Structure  #23,Jackson_GA,GA,poor,high,2017-01-24,1963,34.139444,-83.40916700000001,Georgia
+Sandy Creek Ws Structure # 12,Jackson_GA,GA,poor,high,2017-01-24,1962,34.147222,-83.376389,Georgia
+Sandy Creek Ws Structure # 15,Jackson_GA,GA,poor,high,2017-01-24,1962,34.176944,-83.401944,Georgia
+Sautee Creek W/S Str. #12,White_GA,GA,poor,high,2017-01-11,1958,34.72379,-83.67477,Georgia
+Sautee Creek W/S Str. #13,White_GA,GA,poor,high,2017-01-11,1960,34.70655,-83.67334,Georgia
+Seagraves Mill Pond Dam,Madison_GA,GA,poor,high,2017-01-24,1970,34.09644,-83.35618000000001,Georgia
+Sequoyah Lake Dam,Pickens_GA,GA,poor,high,2017-01-24,1925,34.544167,-84.37138900000001,Georgia
+Settingdown Creek Sub Ws Str # 27,Forsyth_GA,GA,poor,high,2016-01-14,1958,34.2682,-84.25200000000001,Georgia
+Settingdown Creek Ws Str # 25,Forsyth_GA,GA,poor,high,2016-01-14,1954,34.264167,-84.186111,Georgia
+Settingdown Creek Ws Str # 30 A,Forsyth_GA,GA,poor,high,2016-01-14,1958,34.246666999999995,-84.220556,Georgia
+Settingdown Creek Ws Str # 54,Forsyth_GA,GA,poor,high,2017-03-28,1954,34.309722,-84.100278,Georgia
+Settingdown Creek Ws Str # 56,Forsyth_GA,GA,poor,high,2017-03-28,1954,34.314609999999995,-84.07016,Georgia
+Settingdown Creek Ws Str # 6,Forsyth_GA,GA,poor,high,2017-03-28,1957,34.29265,-84.0827,Georgia
+Seventh Day Adventist Lake Dam,Murray_GA,GA,poor,high,2017-03-09,1979,34.891056,-84.72805600000001,Georgia
+Sharp Mountain Creek Ws Str # 1,Pickens_GA,GA,poor,high,2017-01-24,1957,34.440059999999995,-84.46095,Georgia
+Sharp Mountain Creek Ws Str # 12,Pickens_GA,GA,poor,high,2017-01-24,1960,34.43926,-84.4421,Georgia
+Sharp Mountain Creek Ws Str # 13,Pickens_GA,GA,poor,high,2017-03-15,1955,34.41191,-84.43027,Georgia
+Sharp Mountain Creek Ws Str # 2,Pickens_GA,GA,poor,high,2017-01-24,1957,34.431944,-84.465556,Georgia
+Sharp Mountain Creek Ws Str # 22,Pickens_GA,GA,poor,high,2017-01-25,1970,34.425833000000004,-84.40722199999999,Georgia
+Shaw Lake Dam,Gilmer_GA,GA,poor,high,2016-03-01,1971,34.80145,-84.445264,Georgia
+Sibley Millpond Dam,Coweta_GA,GA,poor,high,2017-01-25,0,33.247222,-84.728611,Georgia
+Simpson Lake Dam,Harris_GA,GA,poor,high,2017-03-08,1961,32.625,-84.918806,Georgia
+Skyland Lake Dam,Henry_GA,GA,poor,high,2016-02-15,1970,33.344167,-84.08555600000001,Georgia
+Soque Creek W/S Str. #44,Habersham_GA,GA,poor,high,2016-03-09,0,34.609183,-83.446936,Georgia
+Soque River Ws Str # 13,Habersham_GA,GA,poor,high,2017-03-22,1975,34.65416,-83.57972,Georgia
+South  River W/S Str. # 51,Madison_GA,GA,poor,high,2017-03-23,1964,34.12944,-83.27696999999999,Georgia
+South Fork Broad River W/S Str. # 65,Oglethorpe_GA,GA,poor,high,2013-02-20,1975,33.918079999999996,-83.18981,Georgia
+South Fork Broad River W/S Str. #64,Madison_GA,GA,poor,high,2013-02-20,1964,34.09793,-83.1231,Georgia
+South Fork Broad River Ws Str # 35,Madison_GA,GA,poor,high,2017-03-23,1963,34.09328,-83.29653,Georgia
+South Fork River Ws Str # 27,Madison_GA,GA,poor,high,2017-03-23,1967,34.147909999999996,-83.27089000000001,Georgia
+South Fork River Ws Str # 31,Madison_GA,GA,poor,high,2017-03-22,1962,34.047736,-83.276489,Georgia
+Stonebridge Lake Dam,Floyd_GA,GA,poor,high,2017-03-16,0,34.339444,-85.189444,Georgia
+Stonegate Lake Dam,Fulton_GA,GA,poor,high,2016-02-09,0,34.049167,-84.399722,Georgia
+Stringers Lake Dam,Polk_GA,GA,poor,high,2016-03-24,1969,33.99277,-85.106111,Georgia
+Summit Chase No. 1 Dam (Upstream),Gwinnett_GA,GA,poor,high,2016-01-27,1950,33.854167,-83.97027800000001,Georgia
+Talking Rock Creek W/S Str. # 1,Pickens_GA,GA,poor,high,2016-06-22,1961,34.453610999999995,-84.597778,Georgia
+Talking Rock Creek Ws Str # 13,Pickens_GA,GA,poor,high,2017-01-24,1963,34.51318,-84.48042,Georgia
+Tara Lake Dam,Appling_GA,GA,poor,high,2013-01-23,1955,31.81025,-82.31300999999999,Georgia
+Tara Lake Dam,Carroll_GA,GA,poor,high,2016-01-26,1972,33.645678000000004,-84.916622,Georgia
+Tera Lee Lake Dam,Fulton_GA,GA,poor,high,2016-02-11,1958,33.899528000000004,-84.393556,Georgia
+The Farm Lake Dam,Oconee_GA,GA,poor,high,2013-02-14,0,33.84688,-83.5133,Georgia
+Timber Lake Dam,Cobb_GA,GA,poor,high,2017-04-07,1959,34.03417,-84.59944,Georgia
+Trout Farm Lake Dam,Towns_GA,GA,poor,high,2016-03-16,1968,34.985240000000005,-83.70841999999999,Georgia
+Vogel State Park Lake Dam,Union_GA,GA,poor,high,2016-03-16,1936,34.76931,-83.91702,Georgia
+Walden Woods Lake Dam,Washington_GA,GA,poor,high,2017-03-07,1965,33.006640000000004,-82.78934,Georgia
+Walter Richards Lake Dam,Harris_GA,GA,poor,high,2017-03-08,1940,32.70344,-85.07559,Georgia
+Watson Road Lake Dam,Forsyth_GA,GA,unsatisfactory,high,2016-01-14,0,34.256111,-84.203056,Georgia
+Weems Lake Dam,Henry_GA,GA,poor,high,2017-02-01,1960,33.491667,-84.241111,Georgia
+Wigley Lake Dam,Cobb_GA,GA,poor,high,2016-02-10,0,34.005556,-84.51527800000001,Georgia
+Willow Lake Dam,Fulton_GA,GA,poor,high,2016-02-04,1974,33.993936,-84.289389,Georgia
+Willow Pond,Paulding_GA,GA,poor,high,2017-03-21,0,34.044990000000006,-84.75429,Georgia
+Woodbridge Lake Dam,Columbia_GA,GA,poor,high,2017-02-02,1972,33.561440000000005,-82.15265,Georgia
+York Lake Dam,Polk_GA,GA,poor,high,2016-01-26,0,34.006170000000004,-85.31021,Georgia
+Young Lake Dam,Fannin_GA,GA,poor,high,2016-03-01,1971,34.855556,-84.39,Georgia
+Aahoaka Reservoir,Kauai_HI,HI,poor,high,2017-11-16,1910,22.040388,-159.402379,Hawaii
+Aepoekolu Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-11-10,1910,21.907991,-159.487699,Hawaii
+Elima Reservoir,Kauai_HI,HI,poor,high,2018-04-05,1901,21.929962,-159.531674,Hawaii
+Field 1 Kealia Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-05-24,1920,22.130470000000003,-159.35218799999998,Hawaii
+Field 2 Kealia Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-05-24,1920,22.129532,-159.345087,Hawaii
+Halenanahu Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-04-06,1920,21.964972,-159.432083,Hawaii
+Hanakaoo Reservoir,Maui_HI,HI,poor,high,2016-11-23,1918,20.928707,-156.648924,Hawaii
+Hawi No. 5 Reservoir,Hawaii_HI,HI,unsatisfactory,high,2018-04-09,1930,20.247016000000002,-155.843758,Hawaii
+Hc&S Reservoir 14,Maui_HI,HI,poor,high,2015-08-13,1913,20.910645000000002,-156.348805,Hawaii
+Hc&S Reservoir 15,Maui_HI,HI,poor,high,2015-08-13,1917,20.905023,-156.34745800000002,Hawaii
+Hc&S Reservoir 20,Maui_HI,HI,poor,high,2015-06-29,1913,20.871179,-156.341573,Hawaii
+Hc&S Reservoir 24,Maui_HI,HI,poor,high,2015-07-30,1917,20.887562,-156.355392,Hawaii
+Hc&S Reservoir 42,Maui_HI,HI,poor,high,2015-05-19,1917,20.825567000000003,-156.37964399999998,Hawaii
+Hc&S Reservoir 52,Maui_HI,HI,poor,high,2015-04-29,1917,20.859574,-156.40258500000002,Hawaii
+Hc&S Reservoir 61,Maui_HI,HI,poor,high,2015-09-28,1917,20.872459,-156.412256,Hawaii
+Hc&S Reservoir 70,Maui_HI,HI,poor,high,2015-03-24,1917,20.873616000000002,-156.435145,Hawaii
+Hc&S Reservoir 73,Maui_HI,HI,poor,high,2016-02-24,1908,20.877623,-156.495606,Hawaii
+Hc&S Reservoir 81,Maui_HI,HI,poor,high,2016-07-12,1920,20.814456,-156.416676,Hawaii
+Hc&S Reservoir 84,Maui_HI,HI,poor,high,2015-04-29,1918,20.840815,-156.42505,Hawaii
+Helemano 6 Reservoir,Honolulu_HI,HI,poor,high,2017-10-11,1915,21.552777,-158.06563500000001,Hawaii
+Horner Reservoir,Maui_HI,HI,poor,high,2016-11-23,1926,20.925222,-156.648795,Hawaii
+Hukiwai Reservoir,Kauai_HI,HI,poor,high,2017-03-09,1910,21.905734,-159.55911799999998,Hawaii
+Ipuolono Reservoir,Kauai_HI,HI,poor,high,2018-07-10,1910,21.920425,-159.536125,Hawaii
+Kahoma Reservoir,Maui_HI,HI,poor,high,2015-06-12,1918,20.901881,-156.640616,Hawaii
+Kalihiwai Reservoir,Kauai_HI,HI,poor,high,2017-06-28,1920,22.187054,-159.432378,Hawaii
+Kaloko Reservoir,Kauai_HI,HI,poor,high,2016-04-12,1890,22.178132,-159.379767,Hawaii
+Kaneha Reservoir,Kauai_HI,HI,poor,high,2018-04-16,1910,22.131118,-159.371343,Hawaii
+Kapa Reservoir,Kauai_HI,HI,poor,high,2018-07-10,1901,21.914944000000002,-159.572544,Hawaii
+Kauai Lagoons,Kauai_HI,HI,poor,high,2017-11-02,1987,21.957628,-159.346259,Hawaii
+Kaupale Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-11-17,1910,21.904992,-159.495728,Hawaii
+Keaiwa Reservoir,Hawaii_HI,HI,poor,high,2018-04-13,1920,19.248499,-155.499877,Hawaii
+Kehalani Offsite Retention Basin,Maui_HI,HI,poor,high,2015-04-02,2003,20.858112,-156.496687,Hawaii
+Kemoo 5 Reservoir,Honolulu_HI,HI,poor,high,2018-05-04,1920,21.556074,-158.103653,Hawaii
+Kepani Reservoir,Kauai_HI,HI,poor,high,2018-02-28,1954,22.002352,-159.617526,Hawaii
+Kitano Reservoir,Kauai_HI,HI,poor,high,2017-11-29,1928,22.028432000000002,-159.673562,Hawaii
+Ku Tree Reservoir,Honolulu_HI,HI,poor,high,2015-11-03,1925,21.497567,-157.981111,Hawaii
+Kumano Reservoir,Kauai_HI,HI,poor,high,2016-11-17,1902,21.900292999999998,-159.497421,Hawaii
+Lower Kapahi Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-08-03,1920,22.101591,-159.35281899999998,Hawaii
+Mana Reservoir,Kauai_HI,HI,poor,high,2017-11-29,1905,22.031933,-159.758903,Hawaii
+Manuhonuhonu Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-05-03,1954,21.894485,-159.48032800000001,Hawaii
+Mau Reservoir,Kauai_HI,HI,unsatisfactory,high,2018-04-05,1901,21.927187,-159.530972,Hawaii
+Mimino Reservoir,Kauai_HI,HI,poor,high,2016-03-15,1920,22.114864,-159.361788,Hawaii
+Nuuanu Dam No. 4,Honolulu_HI,HI,poor,high,2017-11-02,1910,21.352632999999997,-157.80780900000002,Hawaii
+Nuuanu Reservoir No. 1,Honolulu_HI,HI,poor,high,2017-08-01,1905,21.339684,-157.837398,Hawaii
+Oahu Reservoir 155,Honolulu_HI,HI,poor,high,2015-12-14,1916,21.404622,-158.059328,Hawaii
+Okinawa Reservoir,Kauai_HI,HI,poor,high,2016-05-03,1920,22.006322,-159.365055,Hawaii
+Omao Reservoir,Kauai_HI,HI,unsatisfactory,high,2016-11-17,1915,21.921116,-159.48321299999998,Hawaii
+Opaeula 15 Reservoir,Honolulu_HI,HI,poor,high,2017-08-31,1910,21.575369,-158.053402,Hawaii
+Papaaea Reservoir,Maui_HI,HI,poor,high,2015-01-21,1902,20.883114000000003,-156.206434,Hawaii
+Pia Mill Reservoir,Kauai_HI,HI,poor,high,2017-05-23,1910,21.920673999999998,-159.471302,Hawaii
+Piwai Reservoir,Kauai_HI,HI,poor,high,2016-11-17,1916,21.932752,-159.490397,Hawaii
+Twin Reservoirs,Kauai_HI,HI,poor,high,2018-03-07,1920,22.082227,-159.348859,Hawaii
+Upper Helemano Reservoir,Honolulu_HI,HI,poor,high,2018-05-04,1912,21.52673,-158.02901699999998,Hawaii
+Wahiawa Dam,Honolulu_HI,HI,poor,high,2018-05-18,1906,21.497654999999998,-158.049151,Hawaii
+Waiakalua Reservoir,Kauai_HI,HI,poor,high,2018-03-07,1920,22.199814,-159.373854,Hawaii
+Waikoloa Reservoir No. 1,Hawaii_HI,HI,poor,high,2018-04-10,1970,20.038120000000003,-155.67246799999998,Hawaii
+Waikoloa Reservoir No. 2,Hawaii_HI,HI,poor,high,2018-04-10,1975,20.038917,-155.675203,Hawaii
+Autumn Lake Dam,Brown_IN,IN,poor,high,2016-09-21,1969,39.321943,-86.27111,Indiana
+Autumn Winds Dam,Vanderburgh_IN,IN,poor,high,2017-08-15,1930,38.058333000000005,-87.56722099999999,Indiana
+Beechwood Lake Dam,Greene_IN,IN,poor,high,2016-08-18,1957,39.084721,-86.88110999999999,Indiana
+Bittersweet Lake Dam,Brown_IN,IN,poor,high,2007-08-04,1964,39.321943,-86.169443,Indiana
+Bittner Lake Dam,Vanderburgh_IN,IN,poor,high,2002-01-10,1956,38.084721,-87.61,Indiana
+Busseron Dam No. L-1,Sullivan_IN,IN,poor,high,2017-05-11,1961,39.101665999999994,-87.42361,Indiana
+Crawfordsville Community Sportsmens Club Lake Dam,Montgomery_IN,IN,poor,high,2011-12-16,1950,40.033888,-86.96583299999999,Indiana
+Crosstie Lake Dam,Ripley_IN,IN,poor,high,2013-04-30,1964,39.288055,-85.23722099999999,Indiana
+Daisy Lake Dam,Vigo_IN,IN,poor,high,2009-11-19,1979,39.508333,-87.440555,Indiana
+Delaney Creek Dam No. 1,Washington_IN,IN,poor,high,2016-03-08,1971,38.694721,-86.067777,Indiana
+Delaney Creek Dam No. 14,Washington_IN,IN,poor,high,2016-03-08,1982,38.694721,-86.01694300000001,Indiana
+Delaney Creek Dam No. 16,Washington_IN,IN,poor,high,2016-03-08,1982,38.728609999999996,-86.067777,Indiana
+Delaney Creek Dam No. 2,Washington_IN,IN,poor,high,2016-03-07,1971,38.677777,-86.050833,Indiana
+Delaney Creek Dam No. 3,Washington_IN,IN,poor,high,2016-03-07,1973,38.694721,-86.067777,Indiana
+Dugan Lake Dam,Owen_IN,IN,poor,high,2017-04-14,1960,39.321943,-86.7625,Indiana
+Falcon Crest Lake Dam,Morgan_IN,IN,poor,high,2016-09-23,1992,39.474443,-86.491388,Indiana
+Forest Lake Dam,Hendricks_IN,IN,poor,high,2000-12-08,1965,39.755,-86.408333,Indiana
+Hart Lake Dam,Morgan_IN,IN,poor,high,2012-10-24,1950,39.559166,-86.440555,Indiana
+Hawthorn Park Dam,Vigo_IN,IN,poor,high,2015-09-04,1930,39.491388,-87.321943,Indiana
+Hillview Lake Dam,Jackson_IN,IN,poor,high,2016-06-01,1961,38.813333,-86.067777,Indiana
+Klingman Lake Dam,Scott_IN,IN,poor,high,2013-04-18,1958,38.643888000000004,-85.61,Indiana
+Kokomo Waterworks Off Channel Dam,Howard_IN,IN,poor,high,2015-10-16,1954,40.491388,-86.0,Indiana
+La Lumiere Dam,Laporte_IN,IN,poor,high,2017-05-02,1940,41.711665999999994,-86.71166600000001,Indiana
+Lake Deturk Dam,Morgan_IN,IN,poor,high,2016-11-03,1972,39.440554999999996,-86.406666,Indiana
+Lake Geneva Dam,Switzerland_IN,IN,poor,high,2015-06-25,1944,38.864166,-85.033888,Indiana
+Lake George Dam,Steuben_IN,IN,poor,high,2015-07-09,1927,41.7625,-85.0,Indiana
+Lake Haven Dam,Henry_IN,IN,poor,high,2016-04-05,1954,39.864166,-85.491388,Indiana
+Lake Latonka Dam,Marshall_IN,IN,poor,high,2016-05-06,1964,41.288055,-86.406666,Indiana
+Lake Of The Four Seasons (Lower) C,Lake_IN,IN,poor,high,2014-04-08,1966,41.389721,-87.220277,Indiana
+Lake Of The Woods Dam,Porter_IN,IN,poor,high,2016-05-11,1937,41.4575,-87.050833,Indiana
+Lake Salinda Dam,Washington_IN,IN,poor,high,2017-01-19,1947,38.57611,-86.084721,Indiana
+Magness Lake Dam #1,Brown_IN,IN,poor,high,2011-05-31,1962,39.203333,-86.27111,Indiana
+Miller Lake Dam,Brown_IN,IN,poor,high,2017-04-25,1952,39.203333,-86.23722099999999,Indiana
+Moriarity Lake Dam,Grant_IN,IN,poor,high,2002-07-22,2000,40.525277,-85.61,Indiana
+Muddy Fork Structure No. 3,Clark_IN,IN,poor,high,2017-07-12,1973,38.440554999999996,-85.982777,Indiana
+Muddy Fork Structure No. 6,Clark_IN,IN,poor,high,2017-07-10,2004,38.440554999999996,-85.898055,Indiana
+North Lake Estates West Lake Dam,Vanderburgh_IN,IN,poor,high,2017-05-26,1950,38.050833000000004,-87.660833,Indiana
+Ogle Lake Dam,Brown_IN,IN,poor,high,2016-07-29,1939,39.1525,-86.23722099999999,Indiana
+Orleans Lake Dam,Orange_IN,IN,poor,high,2017-04-18,1950,38.677777,-86.440555,Indiana
+Reverend Frame Lake Dam,Brown_IN,IN,poor,high,2011-08-04,1975,39.203333,-86.27111,Indiana
+Ridgeview Lake Dam,Cass_IN,IN,poor,high,2017-04-13,1965,40.728609999999996,-86.525277,Indiana
+Robert Crowder Dam,Parke_IN,IN,poor,high,2017-12-28,1971,39.677777,-87.10166600000001,Indiana
+Roc-Mar-Ton Lake Dam,Madison_IN,IN,poor,high,2016-11-04,1929,40.0,-85.593055,Indiana
+Roger Young Lake Dam,Johnson_IN,IN,unsatisfactory,high,1995-10-23,1976,39.338888,-86.13555500000001,Indiana
+Saddle Lake Dam,Adams_IN,IN,poor,high,2000-08-31,1938,40.864166,-84.898055,Indiana
+Schnellville Conservation Club Lake Dam,Dubois_IN,IN,poor,high,2016-05-03,1945,38.355833000000004,-86.74555500000001,Indiana
+Sugar Hills Lake Dam,Hancock_IN,IN,poor,high,2016-09-08,1972,39.864166,-85.830277,Indiana
+Svcd Structure No. F-6 (Collins Lake),Orange_IN,IN,poor,high,2016-06-29,1965,38.474443,-86.593055,Indiana
+Terrace Lake Dam,Bartholomew_IN,IN,poor,high,2016-11-15,1948,39.186388,-85.96583299999999,Indiana
+Thomas J. Miller Lake Dam,Scott_IN,IN,poor,high,2015-10-22,1973,38.643888000000004,-85.72861,Indiana
+Tousley Dam,Brown_IN,IN,poor,high,2017-10-31,1953,39.237221000000005,-86.084721,Indiana
+Treece Lake Dam,Tippecanoe_IN,IN,poor,high,2011-09-01,1974,40.508333,-86.74555500000001,Indiana
+Twin-Rush Creek Dam No. 1,Washington_IN,IN,poor,high,2017-05-16,1980,38.694721,-86.220277,Indiana
+Twin-Rush Creek Dam No. 2,Washington_IN,IN,poor,high,2017-01-19,1969,38.694721,-86.1525,Indiana
+Twin-Rush Creek Dam No. 3,Washington_IN,IN,poor,high,2017-05-16,1969,38.677777,-86.169443,Indiana
+Upper Spring Lake Dam,Morgan_IN,IN,poor,high,2002-04-26,1964,39.593055,-86.305,Indiana
+Van Rooy Lake Dam,Morgan_IN,IN,poor,high,2017-06-20,1963,39.440554999999996,-86.288055,Indiana
+Versailles Lake Dam,Ripley_IN,IN,poor,high,2016-07-28,1956,39.067777,-85.23722099999999,Indiana
+Wagner Youth Camp Lake Dam,Grant_IN,IN,poor,high,2017-10-19,1948,40.593055,-85.660833,Indiana
+Whip-Poor-Will Dam,Morgan_IN,IN,poor,high,2017-01-26,1956,39.338888,-86.47444300000001,Indiana
+Wildwood Shores Lake Dam,Morgan_IN,IN,poor,high,2017-04-07,1974,39.61,-86.288055,Indiana
+Wright Lake Dam,Brown_IN,IN,poor,high,2015-10-10,1970,39.169443,-86.11861,Indiana
+Yarling Lake Dam,Brown_IN,IN,poor,high,2011-12-08,1950,39.321943,-86.186388,Indiana
+Young Lake Dam,Monroe_IN,IN,poor,high,2013-01-10,1996,39.132221,-86.49333299999999,Indiana
+Zehner Mill Pond Dam,Marshall_IN,IN,poor,high,2009-10-20,1933,41.305,-86.406666,Indiana
+Cedar Lake (Old Olathe Lake),Johnson_KS,KS,poor,high,2014-09-09,1931,38.846427,-94.84945,Kansas
+Dam No 1,Wyandotte_KS,KS,poor,high,2016-03-31,1940,39.066384,-94.84083100000001,Kansas
+Dd No 4-14A,Hodgeman_KS,KS,poor,high,2017-04-19,0,38.04853485,-100.02999657,Kansas
+Dd No A-1,Gray_KS,KS,poor,high,2017-10-10,1961,37.81004602,-100.37614930000001,Kansas
+Dd No B-1,Gray_KS,KS,poor,high,2017-10-10,1961,37.81277723,-100.36104749,Kansas
+Dd No D-1,Gray_KS,KS,poor,high,2017-10-10,1959,37.80926587,-100.33743255,Kansas
+Dd No E-1,Gray_KS,KS,poor,high,2017-10-10,1959,37.80881233,-100.32581331,Kansas
+Dd No M-9,Franklin_KS,KS,poor,high,2017-05-31,1987,38.554793,-95.352214,Kansas
+Frd No 5,Chautauqua_KS,KS,poor,high,2013-04-20,1966,37.15183869,-96.42261693,Kansas
+Frd No 5,Shawnee_KS,KS,poor,high,2016-02-25,1972,38.94454266,-95.75192453,Kansas
+Gs Dd No D-34,Jackson_KS,KS,poor,high,2015-12-09,1998,39.40540902,-95.63496127,Kansas
+Highland Lake Dam,Lincoln_KS,KS,poor,high,2017-11-21,1956,38.92982,-98.387149,Kansas
+International Speedway,Wyandotte_KS,KS,poor,high,2017-03-22,0,39.108414,-94.81756,Kansas
+Jaycee Dam,Butler_KS,KS,poor,high,2013-01-11,1958,37.74525552,-96.95739634,Kansas
+Lake Dabinawa,Jefferson_KS,KS,poor,high,2017-09-14,1958,39.13099977,-95.24021311,Kansas
+Lake Estates West,Linn_KS,KS,poor,high,2015-04-23,1976,38.284603000000004,-94.82701899999999,Kansas
+Legacy Lakes,Shawnee_KS,KS,poor,high,2015-04-29,1966,38.99157979,-95.7865775,Kansas
+Lugar Dam,Wyandotte_KS,KS,poor,high,2016-06-23,1975,39.126233,-94.907312,Kansas
+Rimrock Dam,Geary_KS,KS,poor,high,2015-05-27,0,39.021738,-96.850267,Kansas
+Rogers Dam,Riley_KS,KS,unsatisfactory,high,2016-02-19,0,39.22452595,-96.60434979,Kansas
+Santa Fe Lake Dam,Butler_KS,KS,poor,high,2018-01-31,0,37.704077000000005,-97.047196,Kansas
+South Branch Dam,Shawnee_KS,KS,poor,high,2012-08-07,1953,38.997780999999996,-95.7122,Kansas
+Upper Dam,Butler_KS,KS,poor,high,2015-03-31,0,37.75617187,-97.05516317,Kansas
+Wallace Dam,Wyandotte_KS,KS,poor,high,2012-12-19,0,39.090303999999996,-94.82687,Kansas
+Willow Lake,Johnson_KS,KS,unsatisfactory,high,2015-09-15,1960,38.87050996,-94.61624958,Kansas
+Beech Creek Dam,Clay_KY,KY,poor,high,2018-02-26,1963,37.167724,-83.70852,Kentucky
+Blancett Dam,Breckinridge_KY,KY,poor,high,2018-06-06,1964,37.783361,-86.449349,Kentucky
+Bloomfield City Park Dam,Nelson_KY,KY,poor,high,2017-04-20,1952,37.9136111111111,-85.3227777777778,Kentucky
+Boltz Lake Dam,Grant_KY,KY,poor,high,2017-04-13,1956,38.706769,-84.619626,Kentucky
+Brereton Jones Dam,Gallatin_KY,KY,poor,high,2017-11-02,2000,38.76699,-84.7965,Kentucky
+Buck Creek Frs No 4,Lincoln_KY,KY,poor,high,2016-08-04,1970,37.3827777777778,-84.55722222222221,Kentucky
+Bullitt Co Sportsmens Club Dam,Bullitt_KY,KY,poor,high,2018-01-31,1950,37.941148,-85.657438,Kentucky
+Bullock Pen Lake Dam,Grant_KY,KY,poor,high,2018-07-05,1953,38.7883333333333,-84.6558333333333,Kentucky
+Caney Creek Frs 6,Grayson_KY,KY,poor,high,2018-04-30,1966,37.44129,-86.49809,Kentucky
+Cedar Creek Dam,Lincoln_KY,KY,poor,high,2017-06-08,1999,37.496071,-84.55109,Kentucky
+Claryville Lake Dam,Campbell_KY,KY,poor,high,2017-05-18,1940,38.9125,-84.3991666666667,Kentucky
+Covered Bridge Farm Lake Dam,Oldham_KY,KY,poor,high,2018-05-23,1960,38.365,-85.5902777777778,Kentucky
+Cranks Creek Lake Dam,Harlan_KY,KY,poor,high,2018-05-09,1963,36.7385,-83.23808000000001,Kentucky
+Curtis Begley Lake,Owsley_KY,KY,poor,high,2016-11-29,1970,37.4827777777778,-83.7558333333333,Kentucky
+David Tarter,Adair_KY,KY,poor,high,2016-12-08,1984,37.183174,-85.048694,Kentucky
+Duncan Nave Dam,Jessamine_KY,KY,poor,high,2017-11-16,1930,37.886576,-84.567047,Kentucky
+East Fork Clarks River Frs No 32,Marshall_KY,KY,unsatisfactory,high,2018-01-23,1962,36.919294,-88.35595500000001,Kentucky
+East Fork Clarks River Frs No 33,Marshall_KY,KY,poor,high,2018-01-23,1963,36.961715999999996,-88.40042,Kentucky
+Echo Dam,Powell_KY,KY,poor,high,2018-04-18,1961,37.8280555555556,-83.8736111111111,Kentucky
+Elkhorn Lake Dam,Letcher_KY,KY,poor,high,2018-05-30,1912,37.168366,-82.634689,Kentucky
+Elmer Wilmot Farm Dam,Garrard_KY,KY,poor,high,2017-11-28,1966,37.524479,-84.381483,Kentucky
+Fordsville Lake Dam,Ohio_KY,KY,poor,high,2018-06-06,1963,37.63865,-86.71088,Kentucky
+Fox Creek Frs 3,Fleming_KY,KY,poor,high,2017-01-24,1973,38.341963,-83.552173,Kentucky
+Fox Creek Frs 6A,Fleming_KY,KY,poor,high,2017-01-24,1972,38.317788,-83.539647,Kentucky
+Gilbert Dam,Bullitt_KY,KY,poor,high,2018-02-13,1985,38.085167,-85.706041,Kentucky
+Guist Creek Lake Dam,Shelby_KY,KY,poor,high,2017-05-08,1961,38.20722222222221,-85.1583333333333,Kentucky
+Harmony Lake Dam,Oldham_KY,KY,poor,high,2017-11-08,1955,38.4075,-85.58944444444441,Kentucky
+Hollybush Dam,Perry_KY,KY,poor,high,2018-02-26,1988,37.38405,-83.270911,Kentucky
+Homestead Lake Dam,Hopkins_KY,KY,poor,high,2018-03-07,1940,37.1763,-87.55145999999999,Kentucky
+Kentucky River Dam No 10,Madison_KY,KY,poor,high,2017-11-16,1907,37.89504,-84.262,Kentucky
+Lake Carnico Dam,Nicholas_KY,KY,poor,high,2017-10-12,1963,38.34579,-84.0439,Kentucky
+Lake Nevin Dam,Bullitt_KY,KY,poor,high,2018-04-05,1950,37.919445,-85.67219200000001,Kentucky
+Lexington Reservoir No 3,Fayette_KY,KY,poor,high,2016-05-19,1902,38.0005555555556,-84.4727777777778,Kentucky
+Lexington Reservoir No 4,Fayette_KY,KY,poor,high,2016-05-19,1920,37.9772222222222,-84.44944444444441,Kentucky
+Liberty Reservoir Dam,Casey_KY,KY,poor,high,2016-12-08,1979,37.323195,-84.895901,Kentucky
+Loch Mary Reservoir Dam,Hopkins_KY,KY,unsatisfactory,high,2018-03-07,1950,37.27383,-87.51890999999999,Kentucky
+Lower Alexandria Dam,Campbell_KY,KY,poor,high,2017-07-12,1958,38.9677777777778,-84.3716666666667,Kentucky
+Lower Eagle Creek Golf Course Dam,Oldham_KY,KY,poor,high,2018-05-23,1967,38.3805555555556,-85.3666666666667,Kentucky
+Luzerne Lake Dam,Muhlenberg_KY,KY,unsatisfactory,high,2018-02-28,1940,37.213135,-87.195987,Kentucky
+Maple Leaf Dam,Ohio_KY,KY,poor,high,2018-06-14,1953,37.5633333333333,-86.9763888888889,Kentucky
+Marion County Sportsmans Dam,Marion_KY,KY,poor,high,2017-09-28,1953,37.5130555555556,-85.2480555555556,Kentucky
+Marsillett Dam,Floyd_KY,KY,poor,high,2017-03-29,1971,37.696706,-82.894254,Kentucky
+Mckee Scout Camp Lake Dam,Montgomery_KY,KY,poor,high,2017-08-09,1959,37.9375,-83.93222222222221,Kentucky
+Mclean County Fish & Game Club Lake,Mclean_KY,KY,poor,high,2018-06-14,1956,37.609801000000004,-87.252585,Kentucky
+Melvin Stinson Lake,Todd_KY,KY,unsatisfactory,high,2017-03-07,1958,36.83972222222221,-87.15194444444441,Kentucky
+Mill Creek Mps No 4,Monroe_KY,KY,poor,high,2017-09-28,1972,36.682956,-85.701311,Kentucky
+Mitchell Hill Lake Dam,Jefferson_KY,KY,poor,high,2018-02-13,1970,38.080713,-85.763954,Kentucky
+Morganfield City Lake Dam,Union_KY,KY,poor,high,2018-04-13,1935,37.6822222222222,-87.8883333333333,Kentucky
+Norton Commons Dam,Jefferson_KY,KY,poor,high,2016-09-01,2002,38.32145,-85.5695,Kentucky
+Nortonville Lake Dam,Hopkins_KY,KY,poor,high,2018-03-07,1940,37.181,-87.46381,Kentucky
+Otter Lake Dam,Hopkins_KY,KY,poor,high,2018-03-05,1959,37.406562,-87.518005,Kentucky
+Otter Lake Dam No 2,Hopkins_KY,KY,poor,high,2017-03-16,1979,37.397069,-87.52731,Kentucky
+Quinn Dam,Hancock_KY,KY,poor,high,2018-06-06,1952,37.78068,-86.7078,Kentucky
+Ralph Waldrop Lake (East),Graves_KY,KY,poor,high,2018-05-07,1965,36.704862,-88.58921099999999,Kentucky
+Ralph Waldrop Lake Dam (West),Graves_KY,KY,poor,high,2018-05-07,1974,36.72782,-88.67156,Kentucky
+Red Lick Creek Frs 12,Madison_KY,KY,poor,high,2017-01-19,1975,37.580020000000005,-84.21091,Kentucky
+Red Lick Creek Mps 1,Madison_KY,KY,poor,high,2017-11-28,1974,37.546079999999996,-84.18325,Kentucky
+Renfro Dam,Rockcastle_KY,KY,poor,high,2017-01-18,1968,37.384392999999996,-84.335188,Kentucky
+Rice Lake Dam,Lincoln_KY,KY,poor,high,2016-08-04,1953,37.4869444444444,-84.6775,Kentucky
+Salt Lick Creek Frs 1,Menifee_KY,KY,unsatisfactory,high,2017-01-24,1976,37.992315999999995,-83.668228,Kentucky
+Salt Lick Creek Frs No 5,Bath_KY,KY,poor,high,2017-01-24,1973,38.0247222222222,-83.6213888888889,Kentucky
+Salt Lick Creek Mps No 3,Bath_KY,KY,poor,high,2016-04-22,1982,38.058307,-83.599052,Kentucky
+Scenic Lake Dam,Henderson_KY,KY,poor,high,2018-02-20,1950,37.878101,-87.562286,Kentucky
+Shadow Lake Dam,Campbell_KY,KY,poor,high,2017-05-18,1998,38.999646999999996,-84.432437,Kentucky
+Spring Lake Dam,Hopkins_KY,KY,poor,high,2018-03-05,1940,37.324722222222206,-87.51388888888891,Kentucky
+Tank Pond Dam,Boyle_KY,KY,poor,high,2018-04-24,1920,37.585493,-84.907854,Kentucky
+Taylor Fork Lake Dam,Madison_KY,KY,poor,high,2017-11-16,1966,37.70367,-84.35703000000001,Kentucky
+Walker Construction Dam,Menifee_KY,KY,poor,high,2016-11-15,1967,37.9378811,-83.654546,Kentucky
+Wallitsch Dam,Spencer_KY,KY,poor,high,2017-10-18,1968,38.050277777777794,-85.44527777777779,Kentucky
+West Fork Clarks River Frs No 22,Graves_KY,KY,poor,high,2017-12-06,1967,36.923605,-88.612765,Kentucky
+West Fork Mayfield Creek Frs 12,Graves_KY,KY,poor,high,2017-02-09,1975,36.795976,-88.803786,Kentucky
+West Fork Mayfield Creek Frs 16,Carlisle_KY,KY,poor,high,2017-02-09,1978,36.808055555555605,-88.8372222222222,Kentucky
+Wiley Miller Dam,Perry_KY,KY,poor,high,2018-02-26,1972,37.355615,-83.29100799999999,Kentucky
+Willisburg Lake Dam,Washington_KY,KY,poor,high,2017-11-08,1968,37.8269444444444,-85.16305555555559,Kentucky
+Winona Reservoir Dam,Powell_KY,KY,poor,high,2018-04-18,1959,37.761944444444396,-83.8002777777778,Kentucky
+Wood Creek Lake Dam,Laurel_KY,KY,poor,high,2017-01-25,1969,37.214283,-84.198335,Kentucky
+Zachariah Lake Dam,Lee_KY,KY,poor,high,2016-11-29,1950,37.689203000000006,-83.709897,Kentucky
+Bayou Bodcau,Bossier_LA,LA,poor,high,2015-05-13,1949,32.7019444444445,-93.51100000000001,Louisiana
+Iatt Lake Dam,Grant_LA,LA,poor,high,2015-02-05,1956,31.552,-92.65799999999999,Louisiana
+Longville Lake,Beauregard_LA,LA,poor,high,2015-06-10,1950,30.607,-93.2466666666667,Louisiana
+Wallace Lake Dam,Caddo And Desoto_LA,LA,poor,high,2015-05-12,1946,32.319,-93.67,Louisiana
+Christina,Aroostook_ME,ME,poor,high,2016-11-17,1967,46.69,-67.891666667,Maine
+Emery Mills,York_ME,ME,poor,high,2016-12-20,1889,43.49354,-70.84728100000001,Maine
+Howard Pond,Oxford_ME,ME,poor,high,2015-05-20,1800,44.506305,-70.714993,Maine
+Lower West Bay Pond,Hancock_ME,ME,poor,high,2016-08-09,1920,44.488347,-68.046214,Maine
+Mcdonough Brook,Oxford_ME,ME,poor,high,2015-06-03,1973,44.167955,-70.999115,Maine
+Lake Bronson,Kittson_MN,MN,poor,high,2017-05-03,1937,48.723009999999995,-96.63414,Minnesota
+Lanesboro,Fillmore_MN,MN,poor,high,2018-05-22,1868,43.71687,-91.97895,Minnesota
+Pelican Rapids,Otter Tail_MN,MN,poor,high,2017-05-03,1870,46.56986,-96.08225,Minnesota
+Abiaca Watershed Structure Y-34-03 Dam,Carroll_MS,MS,poor,high,2016-03-02,1965,33.3835904218,-90.08843437739999,Mississippi
+Abiaca Watershed Structure Y-34-04 Dam,Carroll_MS,MS,poor,high,2016-03-02,1968,33.38359296,-90.07547006760001,Mississippi
+Abiaca Watershed Structure Y-34-05 Dam,Carroll_MS,MS,poor,high,2016-03-01,1965,33.3859486564,-90.0462619349,Mississippi
+Abiaca Watershed Structure Y-34-06 Dam,Carroll_MS,MS,poor,high,2016-03-01,1967,33.381621708400004,-90.02688759680001,Mississippi
+Abiaca Watershed Structure Y-34-07 Dam,Carroll_MS,MS,poor,high,2016-03-01,1966,33.3583320962,-89.9976145108,Mississippi
+Abiaca Watershed Structure Y-34-09 Dam,Carroll_MS,MS,unsatisfactory,high,2016-03-01,1965,33.3141195232,-89.9498414717,Mississippi
+Abiaca Watershed Structure Y-34-10 Dam,Carroll_MS,MS,poor,high,2016-03-02,1967,33.3545485295,-90.05956876649999,Mississippi
+Abiaca Watershed Structure Y-34-13 Dam,Carroll_MS,MS,unsatisfactory,high,2017-02-14,1965,33.4932196994,-90.0665399577,Mississippi
+Abiaca Watershed Structure Y-34-25 Dam,Carroll_MS,MS,poor,high,2016-03-01,1971,33.3648196466,-90.0025707761,Mississippi
+Abiaca Watershed Structure Y-34-29 Dam,Carroll_MS,MS,unsatisfactory,high,2015-06-09,1973,33.3286832076,-90.00168885149999,Mississippi
+Abotlapoota Creek Ws Str Y-34-11 Dam,Carroll_MS,MS,poor,high,2016-03-02,1965,33.4482257014,-90.06263825629999,Mississippi
+Abotlapoota Ws Str Y-34-15 Dam,Carroll_MS,MS,unsatisfactory,high,2015-06-17,1973,33.4458929717,-90.0652394966,Mississippi
+Anchor Lake Dam,Pearl River_MS,MS,poor,high,2017-09-12,1965,30.6282540227,-89.5990067873,Mississippi
+Ascalmore Structure Y-17A-01 Dam,Tallahatchie_MS,MS,poor,high,2016-01-15,1963,33.917742675599996,-89.99674172479999,Mississippi
+Ascalmore Structure Y-17A-02 Dam,Tallahatchie_MS,MS,poor,high,2016-01-15,1959,33.909401046599996,-90.0447739734,Mississippi
+Bahala Creek Ws Str 2 Dam,Lincoln_MS,MS,poor,high,2016-01-29,1976,31.6544837473,-90.3740381595,Mississippi
+Beaver Lake Dam,Lamar_MS,MS,unsatisfactory,high,2016-04-21,1968,31.1381342669,-89.3505510909,Mississippi
+Bentonia Watershed Structure 7 Dam,Yazoo_MS,MS,unsatisfactory,high,2008-03-07,1963,32.6281910621,-90.3995115466,Mississippi
+Big Creek Watershed Structure 9 Dam,Jones_MS,MS,poor,high,2016-02-11,1975,31.733431974600002,-89.3276888066,Mississippi
+Big Lake Dam,Calhoun_MS,MS,poor,high,2018-06-28,1955,33.7778876275,-89.29654453709999,Mississippi
+Big Sand Watershed Structure Y-32-02 Dam,Carroll_MS,MS,unsatisfactory,high,2016-03-29,1965,33.5315404575,-89.88729732280001,Mississippi
+Big Sand Watershed Structure Y-32-09A Dam,Carroll_MS,MS,unsatisfactory,high,2016-03-02,1966,33.4821310091,-89.84216375,Mississippi
+Big Sand Watershed Structure Y-32-09B Dam,Carroll_MS,MS,poor,high,2016-03-02,1965,33.4848177538,-89.8570754542,Mississippi
+Big Sand Watershed Structure Y-32-10 Dam,Carroll_MS,MS,poor,high,2016-03-29,1967,33.5438266706,-89.8306795731,Mississippi
+Big Sand Watershed Structure Y-32-11 Dam,Carroll_MS,MS,unsatisfactory,high,2016-03-29,1966,33.5505522384,-89.8534214181,Mississippi
+Big Sand Watershed Structure Y-32-17 Dam,Carroll_MS,MS,poor,high,2016-03-28,1966,33.5866677194,-90.0248043038,Mississippi
+Bounds Lake Dam,Lauderdale_MS,MS,poor,high,2018-06-07,1950,32.3935751657,-88.7394631541,Mississippi
+Brinkley Lake Dam,Tishomingo_MS,MS,poor,high,2017-11-30,1971,34.8266998286,-88.16487811969999,Mississippi
+Buntyn Creek Ws Str Y-16A-2 Dam,Tallahatchie_MS,MS,poor,high,2016-03-15,1962,34.1092659317,-90.0687304754,Mississippi
+Burnt Corn Ws Str 5 Dam,Madison_MS,MS,poor,high,2017-11-08,1963,32.5541986659,-90.1888703517,Mississippi
+Camelot Lake Dam,Warren_MS,MS,unsatisfactory,high,2017-04-03,1969,32.237779511,-90.8336867665,Mississippi
+Chiwapa Ws Str 29 Dam,Pontotoc_MS,MS,poor,high,2016-02-05,1969,34.2418360075,-88.8303141267,Mississippi
+Chunky River Ws Number 8 Dam,Newton_MS,MS,poor,high,2015-11-09,1984,32.5424363199,-89.04288542309999,Mississippi
+Chunky River Ws Str 47 Dam,Newton_MS,MS,unsatisfactory,high,2015-11-09,1976,32.5008670002,-89.14266041270001,Mississippi
+Chuquatonchee Ws Str 07 Dam,Chickasaw_MS,MS,poor,high,2016-05-04,1973,33.9895728716,-88.9269432061,Mississippi
+Cooks Lake Dam,Hinds_MS,MS,poor,high,2014-04-10,1952,32.3137903047,-90.2642006751,Mississippi
+Cypress Creek Ws Str Y-19A-08 Dam,Yalobusha_MS,MS,unsatisfactory,high,2016-03-15,1961,34.0325498339,-89.7664672634,Mississippi
+Dry Creek Watershed Structure 3 Dam,Covington_MS,MS,poor,high,2017-11-16,1969,31.7481546419,-89.730466839,Mississippi
+East And West Goose Str R-9-1 Dam,Lafayette_MS,MS,poor,high,2018-01-25,1958,34.3542949288,-89.5537945101,Mississippi
+East And West Goose Str R-9-2 Dam,Lafayette_MS,MS,unsatisfactory,high,2018-01-25,1958,34.3514400819,-89.5566649301,Mississippi
+Eden Creek Ws Str Y-37D-10 Dam,Yazoo_MS,MS,poor,high,2018-02-20,1975,32.9663471895,-90.32870646059999,Mississippi
+Faulkner Lake Dam,Lauderdale_MS,MS,poor,high,2017-06-21,1973,32.3384701301,-88.67381652620001,Mississippi
+Flood Water Retarding Structure Site 35,Holmes_MS,MS,poor,high,2015-02-03,2010,33.1201587402,-89.98098656270001,Mississippi
+Grays  Creek Ws Str G-6-2 Dam,Benton_MS,MS,poor,high,2016-04-07,1960,34.940247765100004,-89.31184923459999,Mississippi
+Greasy Creek Ws Str Lt-1A-11 Dam,Lafayette_MS,MS,unsatisfactory,high,2016-04-06,1960,34.513044233,-89.70365132149999,Mississippi
+Hell Creek Ws Str Lt-9B-2 Dam,Union_MS,MS,poor,high,2016-04-07,1969,34.5887181812,-89.0780867504,Mississippi
+Holiday Creek Ws Str 3 Dam,Marion_MS,MS,poor,high,2016-03-18,1972,31.389672735500003,-89.8623038936,Mississippi
+Holliday Creek Ws Str 4 Dam,Marion_MS,MS,poor,high,2016-03-18,1971,31.3871299937,-89.81046677180001,Mississippi
+Hotophia Creek Ws Str Y-10A-52 Dam,Panola_MS,MS,poor,high,2016-03-16,1961,34.302657278699996,-89.7883453723,Mississippi
+Hoy Lake Dam,Hinds_MS,MS,unsatisfactory,high,2017-04-03,1964,32.392650523600004,-90.1071706858,Mississippi
+Indian Creek Ws Str Y-9A-07 Dam,Panola_MS,MS,unsatisfactory,high,2016-04-06,1959,34.5031659974,-90.17874281510001,Mississippi
+Indian Creek Ws Str Y-9A-08 Dam,Panola_MS,MS,unsatisfactory,high,2016-04-06,1963,34.5088022446,-90.1726545619,Mississippi
+Indian Creek Ws Str Y-9A-14 Dam,Panola_MS,MS,unsatisfactory,high,2016-04-06,1963,34.4582377353,-90.14389337940001,Mississippi
+Lake Druid Dam,Lauderdale_MS,MS,unsatisfactory,high,2017-01-25,1958,32.3887802794,-88.73568399969999,Mississippi
+Lake Hazle Dam,Copiah_MS,MS,poor,high,2017-08-30,1925,31.8677730097,-90.404066593,Mississippi
+Lake Piomingo Dam,Lee_MS,MS,poor,high,2018-02-06,1967,34.322240439699996,-88.6329390175,Mississippi
+Lakemont Lake Dam,Lauderdale_MS,MS,unsatisfactory,high,2017-04-28,1930,32.347120024,-88.69117234139999,Mississippi
+Lakewood Lake Dam,Lauderdale_MS,MS,unsatisfactory,high,2016-02-17,1959,32.3877838803,-88.7403529901,Mississippi
+Magnolia Lake Estates Dam,Lauderdale_MS,MS,poor,high,2017-02-16,2001,32.4742674742,-88.8734514811,Mississippi
+Maywood Subdivision -  Shahkoka Dam,Desoto_MS,MS,unsatisfactory,high,2017-04-07,1948,34.9683333333333,-89.8502777777778,Mississippi
+Maywood Subdivision - Woodland Lake Dam,Desoto_MS,MS,unsatisfactory,high,2017-04-07,1948,34.9691192454,-89.8426722934,Mississippi
+Mimosa Lake Dam,Hinds_MS,MS,poor,high,2017-12-05,1957,32.2524985115,-90.3394265309,Mississippi
+Mirror Lake Dam,Lauderdale_MS,MS,poor,high,2017-06-15,1962,32.3434239903,-88.68680614739999,Mississippi
+Muddy Creek Watershed Structure 24A Dam,Tippah_MS,MS,poor,high,2015-12-10,1961,34.8188888888889,-88.91305555555559,Mississippi
+Muddy Creek Ws Str 2 Dam,Tippah_MS,MS,unsatisfactory,high,2015-12-10,1968,34.8115482401,-88.9546765949,Mississippi
+Murray Creek Ws Str Y-13A-1 Dam,Lafayette_MS,MS,poor,high,2016-03-16,1974,34.2594444738,-89.4814024727,Mississippi
+Murray Creek Ws Str Y-13A-5 Dam,Lafayette_MS,MS,poor,high,2016-03-16,1974,34.2575,-89.4908333333333,Mississippi
+Oaklimeter Creek Watershed Structure Lt-8-17 Dam,Benton_MS,MS,unsatisfactory,high,2015-05-28,1963,34.6382951507,-89.2307224916,Mississippi
+Okonatie Ws Str Ut-25-1 Dam,Union_MS,MS,unsatisfactory,high,2016-05-04,1958,34.3977965399,-88.89773154209999,Mississippi
+Otoucalofa Creek Y-15-1 Dam,Calhoun_MS,MS,unsatisfactory,high,2018-01-26,1994,34.1306330516,-89.38683299629999,Mississippi
+Pelucia Watershed Structure Y-33A-14 Dam,Carroll_MS,MS,unsatisfactory,high,2015-05-14,1963,33.4901540451,-90.0186415517,Mississippi
+Persimmon Creek Structure Y-21-09 Dam,Calhoun_MS,MS,poor,high,2016-05-05,1962,34.016400701799995,-89.33805549889999,Mississippi
+Potacocawa Watershed Structure Y-31A-04 Dam,Carroll_MS,MS,poor,high,2016-03-28,1962,33.6443097919,-89.9655315511,Mississippi
+Potacocawa Watershed Structure Y-31A-06 Dam,Carroll_MS,MS,poor,high,2016-03-28,1965,33.6335526385,-89.9434590476,Mississippi
+Potacocawa Watershed Structure Y-31A-12 Dam,Carroll_MS,MS,poor,high,2016-03-28,1966,33.6157348678,-89.86343213190001,Mississippi
+Prairie Waters Number 2 Dam,Lowndes_MS,MS,poor,high,2018-01-24,1997,33.470026022199995,-88.5437738251,Mississippi
+R N Van Vulpen Pond Dam,Desoto_MS,MS,poor,high,2016-04-07,1955,34.9392956704,-90.0574222707,Mississippi
+Rainbow Lakes # 1 Dam,Lauderdale_MS,MS,unsatisfactory,high,2017-02-15,1977,32.4115600747,-88.5914793886,Mississippi
+Rainbow Lakes # 4 Dam,Lauderdale_MS,MS,unsatisfactory,high,2017-02-15,1977,32.4172709452,-88.5932088178,Mississippi
+Rainbow Lakes # 5 Dam,Lauderdale_MS,MS,unsatisfactory,high,2017-02-15,1977,32.4181367947,-88.5911136242,Mississippi
+Richland Creek Ws Str 2A Dam,Rankin_MS,MS,unsatisfactory,high,2016-01-28,1986,32.2583690175,-89.93789818299999,Mississippi
+Richland Creek Ws Str 3 Dam,Rankin_MS,MS,poor,high,2016-01-28,1983,32.2479048397,-89.93803973850001,Mississippi
+Robin Hood Lake Number 4 Dam,Rankin_MS,MS,poor,high,2015-02-11,1964,32.2012358896,-89.9617520143,Mississippi
+Second Creek Ws Str No. 10B Dam,Adams_MS,MS,unsatisfactory,high,2016-01-12,1965,31.412723700700003,-91.3352554903,Mississippi
+Simpson Lake Dam,Tate_MS,MS,unsatisfactory,high,2015-09-30,1994,34.664272240900004,-89.83888460879999,Mississippi
+South Lake Dam,Lowndes_MS,MS,unsatisfactory,high,2015-10-06,1955,33.5438429769,-88.41240218850001,Mississippi
+Sowashee Creek Ws Str 11 Dam,Lauderdale_MS,MS,poor,high,2016-02-04,1978,32.4157681932,-88.63497868430001,Mississippi
+Spring Lake Dam,Hinds_MS,MS,poor,high,2016-12-31,1974,32.3622187347,-90.32714885719999,Mississippi
+Tippah River Ws Str Lt-7-05 Dam,Benton_MS,MS,poor,high,2016-04-07,1965,34.779376743,-89.1747022366,Mississippi
+Tippah River Ws Str Lt-7-07 Dam,Benton_MS,MS,poor,high,2016-04-07,1966,34.708611111111104,-89.0941666666667,Mississippi
+Town Creek Ws Str 16 Dam,Lee_MS,MS,poor,high,2016-05-05,1972,34.4653159658,-88.75767537610001,Mississippi
+Town Creek Ws Str 19 Dam,Union_MS,MS,poor,high,2016-05-05,1973,34.4559753201,-88.8362583752,Mississippi
+Trace State Park Dam,Pontotoc_MS,MS,unsatisfactory,high,2017-04-07,1974,34.2423593152,-88.8958189651,Mississippi
+Tuscumbia Ws Str 39 Dam,Prentiss_MS,MS,poor,high,2016-05-05,1973,34.7459813463,-88.5924396272,Mississippi
+Tuscumbia Ws Str Number 34 Dam,Prentiss_MS,MS,poor,high,2016-05-05,1989,34.6949040127,-88.50049924059999,Mississippi
+Tuscumbia Ws Str Number 36 Dam,Prentiss_MS,MS,poor,high,2016-05-05,1988,34.6945401131,-88.5916357575,Mississippi
+Tuscumbia Ws Str Number 8 Dam,Alcorn_MS,MS,poor,high,2016-05-05,1975,34.8628966163,-88.48601035709999,Mississippi
+Upper Tippah Watershed Structure Lt-6-17 Dam,Tippah_MS,MS,unsatisfactory,high,2017-11-28,1962,34.786137162399996,-89.04651799530001,Mississippi
+Upper Yocona Watershed Structure Y-14-01 Dam,Lafayette_MS,MS,unsatisfactory,high,2018-01-25,1965,34.341556766,-89.2910430026,Mississippi
+Wanita Mann Pond Dam,Desoto_MS,MS,poor,high,2017-09-14,1959,34.948494205,-90.09017486350001,Mississippi
+West Lake Dam,Lamar_MS,MS,poor,high,2017-07-01,1968,31.308721138699998,-89.36649534799999,Mississippi
+Basin Creek Dam #2,Silver Bow_MT,MT,poor,high,2014-07-09,1907,45.8393,-112.5261,Montana
+Blixit Creek,Missoula_MT,MT,poor,high,2017-06-12,1961,46.8568619990586,-113.638414905574,Montana
+Eureka Reservoir Dam,Teton_MT,MT,poor,high,2018-04-18,1936,47.8784,-112.3178,Montana
+Fred Burr Reservoir Dam,Ravalli_MT,MT,poor,high,2017-05-23,1946,46.3576,-114.3164,Montana
+Kootenai Dvlpmnt Impoundment Dam,Lincoln_MT,MT,poor,high,2017-10-25,1980,48.4423597826716,-115.42585320959999,Montana
+Lower Willow Creek Dam,Granite_MT,MT,poor,high,2016-09-12,1962,46.5592,-113.314,Montana
+Powell,Powell_MT,MT,poor,high,2014-07-01,1981,46.3544,-112.8494,Montana
+Willow Creek Dam,Madison_MT,MT,poor,high,2017-03-30,1938,45.7138,-111.6997,Montana
+Wilson (Judith Basin),Judith Basin_MT,MT,poor,high,2016-05-24,1952,47.155151000000004,-110.359342,Montana
+Albemarle Dam,Cleveland_NC,NC,poor,high,2018-01-04,1951,35.2119,-81.3555,North Carolina
+Arboretum Townhouse Dam,Forsyth_NC,NC,poor,high,2017-09-06,2001,36.1264,-80.0577,North Carolina
+Arran Lakes Dam,Cumberland_NC,NC,poor,high,2017-11-02,1958,35.029,-78.98100000000001,North Carolina
+Ashe Lake Dam,Ashe_NC,NC,poor,high,2018-01-24,1955,36.344,-81.444,North Carolina
+Bennetts Bridge Upper North,Duplin_NC,NC,poor,high,2018-03-13,0,35.0772,-77.9072,North Carolina
+Bennetts Bridge Upper South,Duplin_NC,NC,poor,high,2015-10-07,0,35.0764,-77.9085,North Carolina
+Blanchard Lake Dam #1,Harnett_NC,NC,poor,high,2018-04-11,1943,35.325,-79.06028,North Carolina
+Blanchard Lake Dam #2,Harnett_NC,NC,poor,high,2018-04-11,1953,35.32333,-79.06028,North Carolina
+Blanchard Lake Dam #3,Harnett_NC,NC,poor,high,2018-04-11,1953,35.32306,-79.05889,North Carolina
+Blowing Rock Cntry Club Dam,Watauga_NC,NC,unsatisfactory,high,2018-01-11,1990,36.12611,-81.66667,North Carolina
+Boy Scouts Of America Dam Upper,Moore_NC,NC,poor,high,2018-02-28,1970,35.33636,-79.55949,North Carolina
+Brown Lake Dam,Johnston_NC,NC,unsatisfactory,high,2017-11-27,1955,35.594,-78.237,North Carolina
+Cambro Lake Dam,Harnett_NC,NC,poor,high,2018-04-11,1945,35.294000000000004,-78.904,North Carolina
+Charles Harris Dam,Ashe_NC,NC,unsatisfactory,high,2018-01-24,1950,36.3882,-81.2471,North Carolina
+Clouse Lake Dam,Yancey_NC,NC,poor,high,2018-03-20,1978,35.92432,-82.24899,North Carolina
+Ed Wilkins Dam,Rockingham_NC,NC,poor,high,2017-02-02,1987,36.32611,-79.69389,North Carolina
+Fishers Lake Dam,Haywood_NC,NC,poor,high,2015-02-04,1920,35.5106,-82.8167,North Carolina
+Flint Ridge Dam,Orange_NC,NC,poor,high,2016-08-10,1990,36.054,-79.105,North Carolina
+Gables Drive Dam,Cumberland_NC,NC,unsatisfactory,high,2017-11-16,0,35.1101,-78.8896,North Carolina
+Green Hill Lake Dam,Surry_NC,NC,poor,high,2018-01-25,1955,36.552,-80.632,North Carolina
+Hamilton Lake Dam,Harnett_NC,NC,poor,high,2018-04-11,0,35.5489,-78.8151,North Carolina
+Hanging Rock State Park Dam,Stokes_NC,NC,poor,high,2018-01-25,1938,36.391999999999996,-80.26899999999999,North Carolina
+Hannas Lake Dam,Harnett_NC,NC,poor,high,2017-02-17,1950,35.316,-78.5978,North Carolina
+Henry River Dam,Burke_NC,NC,unsatisfactory,high,2017-04-27,1902,35.69393,-81.42684,North Carolina
+Hillcrest Towne Center Pond B Dam,Forsyth_NC,NC,unsatisfactory,high,2017-08-15,2008,36.0553,-80.324,North Carolina
+Hillcrest Towne Center Pond E Dam,Forsyth_NC,NC,unsatisfactory,high,2017-08-15,2009,36.0557,-80.3274,North Carolina
+Holden Dam,Caldwell_NC,NC,poor,high,2018-01-30,0,35.9195,-81.6462,North Carolina
+Johns Lake Dam,Scotland_NC,NC,poor,high,2018-01-25,1840,34.687,-79.433,North Carolina
+Joyner Lake Dam,Forsyth_NC,NC,poor,high,2017-10-26,1923,36.125,-80.11083,North Carolina
+Kaymoore Dam,Forsyth_NC,NC,unsatisfactory,high,2017-10-24,0,36.0126,-80.2776,North Carolina
+Kernersville Water Supply Dam,Forsyth_NC,NC,poor,high,2017-11-09,1952,36.15448,-80.10058000000001,North Carolina
+Lake Charles Dam,Cumberland_NC,NC,poor,high,2017-11-02,1964,34.965,-78.97800000000001,North Carolina
+Lake Evens Dam,Buncombe_NC,NC,poor,high,2017-04-27,1962,35.5367,-82.3297,North Carolina
+Lake Glenwood Dam,Pitt_NC,NC,poor,high,2018-02-02,1966,35.576,-77.314,North Carolina
+Lake Hyco Dam,Person_NC,NC,poor,high,2017-09-07,1963,36.5082,-79.0421,North Carolina
+Lasater Mill Pond Dam,Forsyth_NC,NC,poor,high,2017-08-31,1929,36.025999999999996,-80.42,North Carolina
+Lewis Lake Dam,Cumberland_NC,NC,unsatisfactory,high,2018-02-20,1974,35.21889,-78.89056,North Carolina
+Loch Lommond,Cumberland_NC,NC,unsatisfactory,high,2018-03-07,0,35.07,-78.998,North Carolina
+Lott Dam,Swain_NC,NC,poor,high,2016-04-26,1980,35.30584,-83.60356,North Carolina
+Mallard Lake Dam Lower,Forsyth_NC,NC,unsatisfactory,high,2017-10-19,1967,36.18439,-80.32682,North Carolina
+Mallard Lake Dam Upper,Forsyth_NC,NC,unsatisfactory,high,2017-10-19,1967,36.188,-80.322,North Carolina
+Mallard Lake Dam Upper West,Forsyth_NC,NC,poor,high,2017-10-19,1967,36.1879,-80.32554,North Carolina
+Miller Dam,Wilkes_NC,NC,unsatisfactory,high,2018-01-30,1979,36.183609999999994,-80.90889,North Carolina
+Mirror Lake Dam,Cumberland_NC,NC,unsatisfactory,high,2018-03-07,1959,35.05444,-78.92222,North Carolina
+Moss Lake Dam,Cleveland_NC,NC,poor,high,2018-05-10,1973,35.275999999999996,-81.457,North Carolina
+Mt.Vernon Estates,Cumberland_NC,NC,poor,high,2017-11-02,1989,34.853,-78.876,North Carolina
+Old Stony Creek Dam,Alamance_NC,NC,poor,high,2017-11-16,1928,36.1281,-79.4061,North Carolina
+Owens Dam,Guilford_NC,NC,poor,high,2017-11-21,1954,35.983000000000004,-79.961,North Carolina
+Pied Piper Dam Lower,Cherokee_NC,NC,poor,high,2017-07-17,1975,35.028890000000004,-84.19806,North Carolina
+Pied Piper Dam Upper,Cherokee_NC,NC,poor,high,2017-03-22,1973,35.03001,-84.19614,North Carolina
+Pinehurst National-Dam #1,Moore_NC,NC,poor,high,2018-01-10,1989,35.18861,-79.44360999999999,North Carolina
+Porter Dam,Buncombe_NC,NC,poor,high,2017-05-02,2007,35.74667,-82.62873,North Carolina
+Rhodes Lake Dam,Cumberland_NC,NC,unsatisfactory,high,2017-11-16,1770,35.2258,-78.6528,North Carolina
+Scott-Harris Dam,Surry_NC,NC,poor,high,2018-01-16,1991,36.33778,-80.65639,North Carolina
+Senecal Dam,Cherokee_NC,NC,poor,high,2018-02-27,2011,35.08765,-84.25823000000001,North Carolina
+Simpson Lake Dam,Moore_NC,NC,unsatisfactory,high,2017-12-07,1953,35.191,-79.143,North Carolina
+Skomp Dam,Cherokee_NC,NC,poor,high,2018-01-11,1970,35.013020000000004,-84.08935,North Carolina
+Straus Pond Dam,Buncombe_NC,NC,poor,high,2015-04-16,1953,35.56306,-82.36,North Carolina
+Sunnyside Lake Dam,Rutherford_NC,NC,poor,high,2018-03-28,1950,35.313,-81.927,North Carolina
+Tallywood Dam,Cumberland_NC,NC,poor,high,2018-03-07,0,35.051,-78.931,North Carolina
+The Lakes Dam,Cumberland_NC,NC,poor,high,2018-03-07,1980,35.074,-78.98,North Carolina
+Tull Millpond Dam,Lenoir_NC,NC,unsatisfactory,high,2018-03-21,1875,35.155,-77.734,North Carolina
+Upper Tanglewood Dam,Cherokee_NC,NC,poor,high,2018-02-01,1974,35.11861,-84.02528000000001,North Carolina
+W. S. Jones Lake,Macon_NC,NC,poor,high,2015-03-06,1963,35.2174,-83.2548,North Carolina
+Walden Two Dam,Mecklenburg_NC,NC,poor,high,2018-06-06,0,35.2153,-80.6607,North Carolina
+Wall Lake Dam,Richmond_NC,NC,poor,high,2017-12-21,1913,34.8705,-79.8272,North Carolina
+Weatherspoon 1979 Ash Pond,Robeson_NC,NC,poor,high,2017-03-30,1949,34.5913,-78.9693,North Carolina
+White Lake Dam,Harnett_NC,NC,poor,high,2018-04-11,1975,35.41,-78.832,North Carolina
+Williams Millpond Dam,Wayne_NC,NC,unsatisfactory,high,2017-04-26,1938,35.187,-77.984,North Carolina
+Willow Lake Estates,Rutherford_NC,NC,poor,high,2018-03-05,0,35.347590000000004,-82.01026999999999,North Carolina
+Winston Lake Dam,Forsyth_NC,NC,poor,high,2017-10-31,1919,36.113,-80.20100000000001,North Carolina
+Woodlake Dam,Moore_NC,NC,unsatisfactory,high,2016-05-27,1973,35.218,-79.19,North Carolina
+Yanceyville Water Supply Dam,Caswell_NC,NC,poor,high,2017-01-31,1952,36.391999999999996,-79.35,North Carolina
+Beach Dam,Golden Valley_ND,ND,poor,high,2018-05-24,1957,46.913909999999994,-104.01548000000001,North Dakota
+Clausen Springs Dam,Barnes_ND,ND,poor,high,2018-05-23,1967,46.68322,-98.03687,North Dakota
+Jackman Coulee Dam 2,Burleigh_ND,ND,poor,high,2018-06-07,2003,46.820859999999996,-100.8034,North Dakota
+Maple River Dam (T-180),Cass_ND,ND,poor,high,2018-05-22,1985,46.67137,-97.44321,North Dakota
+Matejcek Dam,Walsh_ND,ND,poor,high,2016-07-07,1966,48.22566,-97.92771,North Dakota
+Mcgregor Dam,Williams_ND,ND,unsatisfactory,high,2018-05-09,1967,48.588,-102.932,North Dakota
+Mott Watershed Dam,Hettinger_ND,ND,poor,high,2016-08-23,1969,46.38024,-102.3259,North Dakota
+Olson Dam,Pembina_ND,ND,poor,high,2016-07-11,1957,48.73043,-97.94663,North Dakota
+Queen City Dam,Stark_ND,ND,poor,high,2018-05-24,1900,46.87409,-102.82419,North Dakota
+Senator Young Dam,Cavalier_ND,ND,poor,high,2016-07-12,1961,48.75204,-98.01825,North Dakota
+Tioga Dam,Williams_ND,ND,poor,high,2018-05-09,1963,48.40695,-102.9319,North Dakota
+Brule Creek 1-A,Keith_NE,NE,poor,high,2018-06-19,1970,41.1128671,-101.9112172,Nebraska
+Little Indian Creek 15-A,Gage_NE,NE,poor,high,2017-11-16,1955,40.40838624,-96.75511540000001,Nebraska
+North Oak Creek 1-A,Lancaster_NE,NE,poor,high,2018-05-16,1979,41.03408966,-96.83708554,Nebraska
+Plum Creek 4-F,Pawnee_NE,NE,poor,high,2018-05-09,1969,40.12971291,-96.38599426,Nebraska
+Spring Creek 19-B,Dawson_NE,NE,poor,high,2018-04-25,1979,41.01381307,-100.0157332,Nebraska
+Upper Salt Creek 3-A,Lancaster_NE,NE,poor,high,2018-04-12,1955,40.61041486,-96.7255682,Nebraska
+Alton Power Dam,Belknap_NH,NH,poor,high,2016-07-01,1923,43.4577,-71.2308,New Hampshire
+Babbidge Reservoir Dam,Cheshire_NH,NH,poor,high,2017-12-21,1931,42.9338,-72.2202,New Hampshire
+Bow Lake Dam,Strafford_NH,NH,poor,high,2016-11-30,1832,43.2413,-71.1525,New Hampshire
+Chesham Pond Dam,Cheshire_NH,NH,poor,high,2017-10-02,1921,42.9376,-72.1386,New Hampshire
+Cheshire Mills Lower Dam,Cheshire_NH,NH,unsatisfactory,high,2015-06-25,1848,42.9444,-72.0926,New Hampshire
+Childs Bog Dam,Cheshire_NH,NH,poor,high,2017-10-02,1924,42.9518,-72.1235,New Hampshire
+Corcoran Pond Dam,Grafton_NH,NH,poor,high,2017-05-10,1976,43.95,-71.5047,New Hampshire
+Dells Pond Outlet Dam,Grafton_NH,NH,poor,high,2016-10-06,1935,44.3122,-71.7977,New Hampshire
+Exeter Reservoir Dam,Rockingham_NH,NH,poor,high,2017-11-15,1886,42.9872,-70.9331,New Hampshire
+Goffstown Upper Reservoir Dam,Hillsborough_NH,NH,poor,high,2018-04-30,1930,42.9944,-71.5958,New Hampshire
+Gregg Lake Dam,Hillsborough_NH,NH,poor,high,2017-08-21,1908,43.0391,-71.9786,New Hampshire
+Grist Mill Pond Dam,Grafton_NH,NH,poor,high,2017-10-23,1924,43.6947,-71.63,New Hampshire
+Highland Lake Dam,Cheshire_NH,NH,poor,high,2018-04-23,1911,43.0792,-72.0933,New Hampshire
+Howe Reservoir Dam,Cheshire_NH,NH,poor,high,2017-10-02,1924,42.9267,-72.1298,New Hampshire
+Jackman Reservoir Dam,Hillsborough_NH,NH,poor,high,2016-10-19,1926,43.1108,-71.9486,New Hampshire
+Lower Damon Reservoir Dam,Cheshire_NH,NH,poor,high,2017-08-09,1832,42.7239,-72.0796,New Hampshire
+Lower Reservoir Dam,Grafton_NH,NH,poor,high,2017-09-22,1893,43.7197,-72.2494,New Hampshire
+Macallen Dam,Rockingham_NH,NH,poor,high,2016-06-03,1887,43.0811,-70.9347,New Hampshire
+Mendums Pond Dam,Rockingham_NH,NH,poor,high,2017-10-12,1840,43.1627,-71.0686,New Hampshire
+Merrimack River  Right Bank Fdr,Hillsborough_NH,NH,poor,high,2017-06-22,1949,42.7633,-71.4447,New Hampshire
+Merrymeeting Lake Dam,Strafford_NH,NH,poor,high,2017-11-17,1924,43.4772,-71.1794,New Hampshire
+Minnewawa Dam,Cheshire_NH,NH,poor,high,2017-08-09,1923,42.9169,-72.1786,New Hampshire
+Northwood Lake Dam,Merrimack_NH,NH,poor,high,2017-12-04,1926,43.2197,-71.2911,New Hampshire
+Pawtuckaway Lake Dollof Dam,Rockingham_NH,NH,poor,high,2016-11-30,1842,43.0726,-71.15100000000001,New Hampshire
+Pemigewasset River Levee,Grafton_NH,NH,poor,high,2017-11-30,1960,44.0468,-71.66199999999999,New Hampshire
+Penacook Lake Dam,Merrimack_NH,NH,poor,high,2016-12-13,1873,43.2425,-71.5765,New Hampshire
+Pickpocket Dam,Rockingham_NH,NH,poor,high,2018-03-07,1920,42.9699,-71.0012,New Hampshire
+Pine Mill Dam,Grafton_NH,NH,unsatisfactory,high,2017-10-05,0,44.0876,-72.0237,New Hampshire
+Pittsfield Mill Dam,Merrimack_NH,NH,poor,high,2018-05-18,1920,43.3055,-71.3311,New Hampshire
+Sawyers Mill Lower Dam,Strafford_NH,NH,poor,high,2016-12-14,1935,43.1783,-70.875,New Hampshire
+Squam Lake Dam,Grafton_NH,NH,poor,high,2017-07-28,1856,43.7052,-71.6297,New Hampshire
+Suncook Lake Dam,Belknap_NH,NH,poor,high,2016-11-22,1882,43.3597,-71.2666,New Hampshire
+Taylor River Pond Dam,Rockingham_NH,NH,poor,high,2016-12-15,1949,42.9322,-70.8641,New Hampshire
+Uncanoonuc Lake Dam,Hillsborough_NH,NH,poor,high,2017-10-13,1936,42.9888,-71.5772,New Hampshire
+Upper Kimball Pond Dam,Carroll_NH,NH,poor,high,2016-05-17,1800,44.0972,-71.0069,New Hampshire
+Upper Wilson Pond Dam,Cheshire_NH,NH,poor,high,2017-05-24,1925,42.9086,-72.2577,New Hampshire
+Whites Pond Dam And Dike,Merrimack_NH,NH,poor,high,2017-09-28,1890,43.3019,-71.3175,New Hampshire
+Alto Lake Dam,Lincoln_NM,NM,poor,high,2018-01-23,1965,33.3961,-105.6714,New Mexico
+Anthony Arroyo Dam No. 1,Dona Ana_NM,NM,poor,high,2017-03-21,1974,32.0036,-106.5799,New Mexico
+Apache Brazito Mesquite Dam No. 1,Dona Ana_NM,NM,poor,high,2014-05-21,1964,32.2272,-106.6962,New Mexico
+Apache Brazito Mesquite Dam No. 2,Dona Ana_NM,NM,poor,high,2014-05-21,1965,32.1924,-106.671,New Mexico
+Apache Brazito Mesquite Dam No. 3,Dona Ana_NM,NM,poor,high,2014-05-22,1964,32.17792,-106.66114099999999,New Mexico
+Apache Brazito Mesquite Dam No. 4,Dona Ana_NM,NM,poor,high,2014-05-22,1964,32.1596,-106.6518,New Mexico
+Bear Canyon Dam,Grant_NM,NM,poor,high,2018-02-28,1937,32.883109999999995,-107.99236,New Mexico
+Breedlove Flood Control Dam,Dona Ana_NM,NM,poor,high,2015-03-16,1996,32.045,-106.5921,New Mexico
+Caballo Arroyo Dam No. 1,Sierra_NM,NM,poor,high,2015-06-02,1959,32.86861,-107.28602,New Mexico
+Caballo Arroyo Dam No. 2,Dona Ana_NM,NM,poor,high,2015-04-21,1959,32.7634,-107.26100000000001,New Mexico
+Caballo Arroyo Dam No. 3,Dona Ana_NM,NM,poor,high,2015-04-22,1959,32.716198999999996,-107.20724799999999,New Mexico
+Cabresto Dam,Taos_NM,NM,poor,high,2016-06-17,2012,36.7462,-105.4991,New Mexico
+Carson Dam,Taos_NM,NM,poor,high,2014-04-18,1935,36.4212,-105.8343,New Mexico
+Cimarroncito Dam,Colfax_NM,NM,poor,high,2017-05-25,1948,36.48141,-105.05463,New Mexico
+Cottonwood-Walnut Site #6,Eddy_NM,NM,poor,high,2015-04-01,1986,32.922134,-104.571893,New Mexico
+County Line Detention Dam,Sierra_NM,NM,poor,high,2015-06-02,1956,32.78141,-107.26561000000001,New Mexico
+Crow Broad Placitas Dam No. 1,Dona Ana_NM,NM,poor,high,2017-02-01,1969,32.5314,-106.9936,New Mexico
+Crow Broad Placitas Dam No. 2A,Dona Ana_NM,NM,poor,high,2017-01-31,1971,32.715070000000004,-107.27812,New Mexico
+Dona Ana Site 1,Dona Ana_NM,NM,poor,high,2017-03-22,1956,32.3914,-106.7987,New Mexico
+Fillmore Site 1 Dam,Dona Ana_NM,NM,poor,high,2017-03-21,1962,32.252386,-106.710858,New Mexico
+Gardner Dam,Dona Ana_NM,NM,unsatisfactory,high,2017-03-21,1950,31.902128,-106.68528799999999,New Mexico
+Green Canyon Dam,Sierra_NM,NM,poor,high,2015-06-02,1972,32.80746,-107.27861000000001,New Mexico
+Hackberry Draw Site No. 2 Dam,Eddy_NM,NM,poor,high,2015-03-31,1967,32.413810999999995,-104.30820600000001,New Mexico
+Hatch Valley Arroyo Dam No. 1,Dona Ana_NM,NM,poor,high,2015-04-22,1958,32.723936,-107.22899299999999,New Mexico
+Hatch Valley Arroyo Dam No. 2,Dona Ana_NM,NM,poor,high,2015-04-22,1957,32.7175,-107.2099,New Mexico
+Hatch Valley Arroyo Dam No. 6,Dona Ana_NM,NM,poor,high,2015-04-21,1957,32.760958,-107.247123,New Mexico
+Hatch Valley Arroyos Dam No. 3,Dona Ana_NM,NM,poor,high,2017-01-31,1958,32.701855,-107.199047,New Mexico
+Hatch Valley Arroyos Dam No. 4,Dona Ana_NM,NM,poor,high,2017-02-01,1957,32.683683,-107.088917,New Mexico
+Hatch Valley Arroyos Dam No. 5,Dona Ana_NM,NM,poor,high,2017-01-31,1958,32.643939,-107.138272,New Mexico
+Houston Arroyo Dam,Valencia_NM,NM,poor,high,2015-02-16,1968,34.67865,-106.79121,New Mexico
+Jackson Lake Dam,San Juan_NM,NM,poor,high,2017-05-23,1919,36.809,-108.2236,New Mexico
+Jaritas Reservoir B Dam,Colfax_NM,NM,poor,high,2013-11-13,1917,36.244,-104.3828,New Mexico
+Kight Flood Retard Dam,Dona Ana_NM,NM,poor,high,2014-02-03,1955,32.7745,-107.2648,New Mexico
+La Luz-Fresnal East Reservoir,Otero_NM,NM,poor,high,2018-01-24,1993,32.97034,-105.93443,New Mexico
+La Luz-Fresnal North & South Reservoirs,Otero_NM,NM,poor,high,2018-01-24,1961,32.97287,-105.93351000000001,New Mexico
+La Mesilla Site 1 Dam,Rio Arriba_NM,NM,poor,high,2017-06-09,1970,35.957066999999995,-106.061259,New Mexico
+Laguna Del Campo Dam,Rio Arriba_NM,NM,poor,high,2016-03-15,1940,36.7138,-106.584,New Mexico
+Lake Maloya Dam,Colfax_NM,NM,poor,high,2017-05-24,1914,36.983909999999995,-104.37535,New Mexico
+Lauson Arroyo Flood Detention Dam,Dona Ana_NM,NM,poor,high,2017-03-21,1996,32.02858,-106.57746999999999,New Mexico
+Lower Nielson Retarding Dam,Cibola_NM,NM,poor,high,2016-03-03,1987,35.251999999999995,-107.9889,New Mexico
+Lower Vallecito Dam,Sandoval_NM,NM,poor,high,2016-06-03,1947,35.684877,-106.655054,New Mexico
+Lucero Detention Dike,Dona Ana_NM,NM,poor,high,2017-03-22,1951,32.48036,-106.91286000000001,New Mexico
+Marie Street Dam,Sierra_NM,NM,poor,high,2015-03-04,1960,33.14181,-107.25344,New Mexico
+Mariposa Dam,Bernalillo_NM,NM,poor,high,2016-01-14,1983,35.1564,-106.6947,New Mexico
+Mcgaffey Lake Dam,Mckinley_NM,NM,poor,high,2016-04-18,1937,35.3765,-108.5141,New Mexico
+Miami Lake Dam No. 2,Colfax_NM,NM,poor,high,2017-06-20,1913,36.3461,-104.8927,New Mexico
+Morphy Lake Dam,Mora_NM,NM,poor,high,2017-06-20,1940,35.941379,-105.400474,New Mexico
+Picacho North Dam,Dona Ana_NM,NM,poor,high,2014-03-18,1954,32.3536,-106.8548,New Mexico
+Picacho South Dam,Dona Ana_NM,NM,poor,high,2014-03-18,1954,32.3447,-106.8593,New Mexico
+Porter Whisenhunt Dam,Dona Ana_NM,NM,poor,high,2015-03-16,1959,32.6511,-107.1185,New Mexico
+Power Lake Dam,Guadalupe_NM,NM,unsatisfactory,high,2015-11-18,1927,34.926798,-104.6801,New Mexico
+Prop Canyon Site 1 Dam,Cibola_NM,NM,poor,high,2015-04-30,1960,35.266,-107.9958,New Mexico
+Prop Canyon Site 2A Dam,Cibola_NM,NM,poor,high,2015-04-30,1961,35.2477,-107.9745,New Mexico
+Railroad Dam No.1,Guadalupe_NM,NM,poor,high,2015-11-18,1907,34.955659999999995,-104.65793000000001,New Mexico
+Railroad Dam No.2,Guadalupe_NM,NM,poor,high,2015-11-18,1922,34.955659999999995,-104.64568,New Mexico
+Ramah Dam,Mckinley_NM,NM,poor,high,2016-04-19,1900,35.1452,-108.4897,New Mexico
+Rc&D Project Measure 83 Dam,Taos_NM,NM,poor,high,2014-03-19,1967,36.404331,-105.562354,New Mexico
+Running Water Draw Site 1 Dam,Curry_NM,NM,poor,high,2015-04-21,1975,34.518,-103.1495,New Mexico
+San Mateo Lake Dam,Cibola_NM,NM,unsatisfactory,high,2016-04-18,1935,35.3237,-107.6338,New Mexico
+Sand Hill Arroyo Dam,Dona Ana_NM,NM,poor,high,2018-02-27,1957,32.38074,-106.74088,New Mexico
+Santa Cruz Site 1 Dam,Rio Arriba_NM,NM,poor,high,2016-10-26,1962,36.0102,-105.9184,New Mexico
+Santa Cruz Site 2G Dam,Rio Arriba_NM,NM,poor,high,2016-10-14,1982,36.0145,-105.9354,New Mexico
+Santa Cruz Site 3 Dam,Rio Arriba_NM,NM,poor,high,2016-10-14,1962,36.0189,-105.9604,New Mexico
+Santa Cruz Site 3A Dam,Rio Arriba_NM,NM,poor,high,2016-10-14,1972,36.02,-105.9542,New Mexico
+Santa Cruz Site 5 Dam,Rio Arriba_NM,NM,poor,high,2016-10-14,1961,36.0028,-105.9875,New Mexico
+Santa Cruz Site 6 Dam,Santa Fe_NM,NM,poor,high,2016-10-14,1962,35.9769,-105.9847,New Mexico
+Sebastian Martin Bm 1 Dam,Rio Arriba_NM,NM,poor,high,2017-12-14,1978,36.083046,-106.084799,New Mexico
+Sebastian Martin Site 18 Dam,Rio Arriba_NM,NM,poor,high,2017-03-29,1985,36.09276,-106.0376,New Mexico
+Sebastian Martin Site 4 Dam,Rio Arriba_NM,NM,poor,high,2017-03-29,1977,36.1041,-106.071393,New Mexico
+Sebastian Martin Site 5 Dam,Rio Arriba_NM,NM,poor,high,2017-03-29,1981,36.108268,-106.06648100000001,New Mexico
+Sebastian Martin Site 6 Dam,Rio Arriba_NM,NM,poor,high,2017-03-29,1973,36.1127,-106.0602,New Mexico
+Sibley Green Site 4,Sierra_NM,NM,poor,high,2015-06-02,1974,32.75874,-107.34754,New Mexico
+Sibley Green Site 5,Sierra_NM,NM,poor,high,2018-02-27,1977,32.74635,-107.32686000000001,New Mexico
+Spring Canyon Dam,Dona Ana_NM,NM,poor,high,2014-02-05,1940,32.64028,-107.15766,New Mexico
+Springer Dam No. 2,Colfax_NM,NM,poor,high,2017-04-19,1964,36.3929,-104.6153,New Mexico
+St. Anne'S Dam,Sierra_NM,NM,poor,high,2015-03-04,1960,33.14059,-107.24337,New Mexico
+T Or C Site 8C Dam,Sierra_NM,NM,poor,high,2015-06-02,1981,33.12661,-107.30431000000002,New Mexico
+Thirtieth Street Dam,San Juan_NM,NM,poor,high,2015-02-09,1979,36.756,-108.17299999999999,New Mexico
+Throttle Dam No. 2,Colfax_NM,NM,poor,high,2016-05-05,1914,36.8272,-104.2274,New Mexico
+Tortugas Site 1 Dam,Dona Ana_NM,NM,poor,high,2015-11-17,1962,32.291270000000004,-106.72765,New Mexico
+Tortugas Site 2 Dam,Dona Ana_NM,NM,poor,high,2015-11-17,1962,32.270635,-106.74238899999999,New Mexico
+Upper Gila Valley Site No. 1 Dam,Grant_NM,NM,poor,high,2018-05-23,1962,32.966801000000004,-108.56406899999999,New Mexico
+Upper Gila Valley Site No. 10 Dam,Grant_NM,NM,poor,high,2018-05-23,1963,33.00953,-108.57437,New Mexico
+Upper Gila Valley Site No. 11 Dam,Grant_NM,NM,poor,high,2018-05-23,1963,33.00724,-108.59623300000001,New Mexico
+Upper Gila Valley Site No. 12 Dam,Grant_NM,NM,poor,high,2018-05-23,1963,32.97918,-108.59953999999999,New Mexico
+Upper Gila Valley Site No. 3 Dam,Grant_NM,NM,poor,high,2018-05-23,1962,32.979925,-108.561581,New Mexico
+Upper Gila Valley Site No. 4 Dam,Grant_NM,NM,poor,high,2018-05-24,1962,32.990804,-108.55191200000002,New Mexico
+Upper Gila Valley Site No. 6 Dam,Grant_NM,NM,poor,high,2018-05-24,1963,33.003917,-108.53058999999999,New Mexico
+Upper Gila Valley Site No. 7 Dam,Grant_NM,NM,poor,high,2018-05-23,1962,33.024941999999996,-108.550102,New Mexico
+Upper Gila Valley Site No. 8 Dam,Grant_NM,NM,poor,high,2018-05-23,1963,33.019935,-108.55843,New Mexico
+Upper Gila Valley Site No. 9 Dam,Grant_NM,NM,poor,high,2018-05-23,1962,33.0176,-108.5636,New Mexico
+Upper Penasco Site 1,Otero_NM,NM,poor,high,2018-01-24,1960,32.8428,-105.56631000000002,New Mexico
+Upper Penasco Site 2,Otero_NM,NM,poor,high,2015-06-03,1959,32.86345,-105.50638000000001,New Mexico
+Upper Penasco Site 3A,Otero_NM,NM,poor,high,2015-06-03,1959,32.88306,-105.49196,New Mexico
+Upper Rio Hondo Site No. 1 Dam,Lincoln_NM,NM,poor,high,2016-03-23,1959,33.533989,-105.48016799999999,New Mexico
+Ute Creek Dam,Colfax_NM,NM,poor,high,2016-05-05,1913,36.579957,-105.122545,New Mexico
+Webster Dam,Colfax_NM,NM,poor,high,2017-05-25,1909,36.48253,-105.01102,New Mexico
+Cave Creek Dam,White Pine_NV,NV,poor,high,2017-05-22,1932,39.1897,-114.7,Nevada
+Greil Dam,Washoe_NV,NV,poor,high,2018-03-09,1955,39.2468,-119.75200000000001,Nevada
+Herman Dam,Washoe_NV,NV,poor,high,2017-08-17,1955,39.5481,-119.825,Nevada
+Smith Creek Dam,Lander_NV,NV,poor,high,2018-04-03,1938,39.384,-117.63600000000001,Nevada
+Spring Creek Dam #1,Elko_NV,NV,poor,high,2017-05-16,1972,40.7417,-115.571,Nevada
+Verdi Meadows Wastewater Disposal Dam,Washoe_NV,NV,poor,high,2017-08-29,1973,39.5276,-119.97200000000001,Nevada
+Altiers Lake Dam,Perry_OH,OH,poor,high,2017-05-18,1949,39.6511111111111,-82.0963888888889,Ohio
+Amicks Upground Reservoir,Morrow_OH,OH,poor,high,2016-10-11,1968,40.7055555555556,-82.8227777777778,Ohio
+Apple Valley Lake Dam,Knox_OH,OH,poor,high,2015-11-24,1971,40.4194444444444,-82.3430555555556,Ohio
+Ashtabula County Outdoor Club Lake Dam,Ashtabula_OH,OH,poor,high,2018-05-17,1928,41.8763888888889,-80.71055555555559,Ohio
+Athens Fish And Game Club Lake Dam,Athens_OH,OH,unsatisfactory,high,2016-11-15,1938,39.300833333333294,-82.27472222222221,Ohio
+Ballville Dam,Sandusky_OH,OH,poor,high,2013-09-24,1911,41.3263888888889,-83.1363888888889,Ohio
+Barnesville Lake Dam,Belmont_OH,OH,poor,high,2017-10-24,1969,39.9986111111111,-81.18194444444441,Ohio
+Barnesville Reservoir No. 2 Dam,Belmont_OH,OH,poor,high,2017-10-24,1936,39.970833333333296,-81.1561111111111,Ohio
+Bellevue Upground Reservoir No. 1,Huron_OH,OH,poor,high,2018-06-19,1874,41.268333333333295,-82.8266666666667,Ohio
+Bellevue Upground Reservoir No. 3,Huron_OH,OH,poor,high,2018-06-19,1900,41.27,-82.825,Ohio
+Bellevue Upground Reservoir No. 4,Huron_OH,OH,poor,high,2018-06-19,1919,41.261666666666706,-82.8233333333333,Ohio
+Belmont Hills Country Club Lake Dam,Belmont_OH,OH,poor,high,2017-11-08,1940,40.0638888888889,-80.9433333333333,Ohio
+Blanchester Reservoir No. 3 Dam,Clinton_OH,OH,poor,high,2014-10-22,1934,39.287222222222205,-83.9783333333333,Ohio
+Blanchester Reservoir No. 4 Dam,Clinton_OH,OH,unsatisfactory,high,2014-10-22,1950,39.286111111111104,-83.9711111111111,Ohio
+Briarwood Sportsman'S Club No. 11 Dam,Logan_OH,OH,poor,high,2014-11-10,1976,40.3638888888889,-83.69944444444441,Ohio
+Brightwood Lake Dam,Lake_OH,OH,poor,high,2016-05-26,1967,41.6783333333333,-81.2694444444444,Ohio
+Brimfield Lake Dam,Portage_OH,OH,poor,high,2017-06-28,1959,41.0927777777778,-81.3566666666667,Ohio
+Brye Lake Dam,Medina_OH,OH,poor,high,2015-05-21,1988,41.0533333333333,-81.7438888888889,Ohio
+Bucyrus Reservoir No. 1 Dam,Crawford_OH,OH,poor,high,2018-05-15,1900,40.8269444444444,-82.9380555555556,Ohio
+Bucyrus Reservoir No. 3 Dam,Crawford_OH,OH,poor,high,2018-05-16,1955,40.827222222222204,-82.9333333333333,Ohio
+Camp Greenwood Lake Dam,Delaware_OH,OH,poor,high,2016-10-12,1875,40.309722222222206,-83.05555555555559,Ohio
+Camp Whitewood Lake Dam,Ashtabula_OH,OH,poor,high,2016-03-29,1967,41.52722222222221,-80.9661111111111,Ohio
+Cedarville Upground Reservoir,Greene_OH,OH,poor,high,2014-10-30,1963,39.7411111111111,-83.815,Ohio
+Chateau Lakes No. 2 Dam,Hamilton_OH,OH,poor,high,2016-04-26,1975,39.1883333333333,-84.6466666666667,Ohio
+Clark Lake Dam,Clark_OH,OH,poor,high,2014-10-23,1957,39.948333333333295,-83.66,Ohio
+Clear Fork Reservoir Dam,Richland_OH,OH,poor,high,2015-11-12,1949,40.6980555555556,-82.6063888888889,Ohio
+Comet Lake Dam,Summit_OH,OH,poor,high,2015-06-30,1922,40.922777777777796,-81.5258333333333,Ohio
+Crooksville Reservoir No. 1 Dam,Morgan_OH,OH,poor,high,2013-09-26,1934,39.7611111111111,-82.0472222222222,Ohio
+Crooksville Reservoir No. 2 Dam,Morgan_OH,OH,poor,high,2013-09-26,1945,39.764722222222204,-82.04333333333331,Ohio
+Dale Walborn Reservoir Dam,Stark_OH,OH,poor,high,2016-05-04,1971,40.973055555555604,-81.17777777777779,Ohio
+Deer Lake Dam,Muskingum_OH,OH,poor,high,2013-11-06,1957,39.8811111111111,-82.1013888888889,Ohio
+Delta Reservoir No. 1,Fulton_OH,OH,poor,high,2017-09-19,1933,41.589444444444396,-84.0122222222222,Ohio
+East Reservoir Dam,Summit_OH,OH,poor,high,2015-08-18,1840,41.0011111111111,-81.5316666666667,Ohio
+Echo Lake Dam,Miami_OH,OH,poor,high,2014-10-23,1876,40.1561111111111,-84.2602777777778,Ohio
+Forest Hill Park Dam No. 2,Cuyahoga_OH,OH,poor,high,2018-06-06,1963,41.5208333333333,-81.5786111111111,Ohio
+Forked Run Lake Dam,Meigs_OH,OH,poor,high,2017-04-04,1952,39.091666666666704,-81.7677777777778,Ohio
+Franz Pond Dam,Miami_OH,OH,poor,high,2014-10-23,1876,40.151666666666706,-84.2583333333333,Ohio
+Galley Hill Lake Dam,Clermont_OH,OH,poor,high,2014-11-06,1960,39.1388888888889,-84.1991666666667,Ohio
+Gorge Plant Dam,Summit_OH,OH,poor,high,2017-04-13,1912,41.1230555555556,-81.4972222222222,Ohio
+Grand Lake St. Marys - West Embankment,Mercer_OH,OH,poor,high,2014-10-30,1841,40.535,-84.5733333333333,Ohio
+Greenwich Reservoir Dam,Huron_OH,OH,poor,high,2016-10-19,1921,41.026388888888896,-82.5158333333333,Ohio
+Hammertown Lake Dam,Jackson_OH,OH,poor,high,2017-10-04,1954,39.0563888888889,-82.6847222222222,Ohio
+Hargus Lake Dam,Pickaway_OH,OH,poor,high,2017-10-18,1956,39.6263888888889,-82.88611111111109,Ohio
+Hickory Hills Park Lake Dam,Portage_OH,OH,poor,high,2016-04-21,1958,41.112777777777794,-81.2183333333333,Ohio
+Highlandtown Lake Dam,Columbiana_OH,OH,poor,high,2014-06-17,1966,40.6377777777778,-80.7486111111111,Ohio
+Hinckley Lake Dam,Medina_OH,OH,poor,high,2014-05-06,1928,41.2263888888889,-81.7202777777778,Ohio
+Hollenbeck Lake Dam,Cuyahoga_OH,OH,poor,high,2017-05-03,1953,41.370833333333294,-81.7436111111111,Ohio
+Hunters Run Structure No. 3,Fairfield_OH,OH,poor,high,2017-05-23,1960,39.699166666666706,-82.65916666666669,Ohio
+Hunters Run Structure R-42,Fairfield_OH,OH,poor,high,2017-05-24,1959,39.738333333333294,-82.745,Ohio
+Indian Lake Dam,Logan_OH,OH,poor,high,2014-11-13,1852,40.4675,-83.8755555555556,Ohio
+Indian Lakes Rec. Area Lower Lake Dam,Guernsey_OH,OH,poor,high,2017-09-20,1962,39.9466666666667,-81.5711111111111,Ohio
+International Animal Preserve Pond Dam #10,Muskingum_OH,OH,poor,high,2017-11-16,1976,39.8369444444444,-81.7333333333333,Ohio
+Jisco Lake Dam,Jackson_OH,OH,poor,high,2017-10-04,1952,39.0305555555556,-82.6722222222222,Ohio
+Knox Cattle Company Dam,Knox_OH,OH,poor,high,2015-11-18,1945,40.3955555555556,-82.44722222222221,Ohio
+Knox Lake Dam,Knox_OH,OH,poor,high,2015-11-19,1954,40.496388888888895,-82.5266666666667,Ohio
+Lake Alma Dam,Vinton_OH,OH,poor,high,2016-11-15,1902,39.144444444444396,-82.5175,Ohio
+Lake Cable Dam,Stark_OH,OH,poor,high,2015-05-14,1926,40.86,-81.4533333333333,Ohio
+Lake Damascus Dam,Knox_OH,OH,poor,high,2016-05-11,2010,40.345833333333296,-82.66611111111109,Ohio
+Lake Hamilton Dam,Mahoning_OH,OH,poor,high,2016-05-09,1905,41.036666666666704,-80.5925,Ohio
+Lake Lamberjack Upground Reservoir,Hancock_OH,OH,poor,high,2016-05-19,1919,41.1563888888889,-83.43194444444441,Ohio
+Lake Loramie Dam,Shelby_OH,OH,poor,high,2014-10-27,1844,40.3575,-84.3588888888889,Ohio
+Lake Lucerne Dam,Geauga_OH,OH,poor,high,2014-05-08,1922,41.3988888888889,-81.3458333333333,Ohio
+Lake Milton Dam,Mahoning_OH,OH,poor,high,2016-04-20,1916,41.1272222222222,-80.9777777777778,Ohio
+Lake Rockwell Dam,Portage_OH,OH,poor,high,2013-05-16,1913,41.182777777777794,-81.3311111111111,Ohio
+Lake Rupert Dam,Vinton_OH,OH,poor,high,2016-11-15,1968,39.1763888888889,-82.5208333333333,Ohio
+Lake Wapusun Dam,Wayne_OH,OH,poor,high,2015-11-19,1969,40.714166666666706,-82.1133333333333,Ohio
+Lake White Dam,Pike_OH,OH,poor,high,2014-09-24,1935,39.106111111111105,-83.0091666666667,Ohio
+Lilley Lake Dam,Warren_OH,OH,poor,high,2014-10-16,1954,39.3844444444444,-84.1338888888889,Ohio
+Long'S Retreat Lake Dam,Pike_OH,OH,poor,high,2017-10-12,1970,39.0872222222222,-83.3183333333333,Ohio
+Lower Jeffco Lake Dam,Ashtabula_OH,OH,poor,high,2016-06-08,1963,41.565,-80.64388888888891,Ohio
+Lower Shaker Lake Dam,Cuyahoga_OH,OH,poor,high,2018-04-18,1830,41.49,-81.58166666666669,Ohio
+Margaret Creek Structure No. 6,Athens_OH,OH,poor,high,2017-03-29,1967,39.3027777777778,-82.1847222222222,Ohio
+Mckelvey Lake Dam,Mahoning_OH,OH,poor,high,2016-05-09,1926,41.105,-80.5944444444444,Ohio
+Mineral Ridge Dam,Trumbull_OH,OH,poor,high,2016-04-20,1932,41.15333333333329,-80.7791666666667,Ohio
+Muskingum College Lake Dam,Muskingum_OH,OH,poor,high,2017-12-07,1935,39.9975,-81.7352777777778,Ohio
+Naji Lake Dam,Ashtabula_OH,OH,poor,high,2016-03-29,1963,41.518333333333295,-80.9836111111111,Ohio
+Nimisila Reservoir Dam,Summit_OH,OH,poor,high,2015-06-16,1936,40.926666666666705,-81.5233333333333,Ohio
+North Reservoir Dam,Summit_OH,OH,poor,high,2015-08-18,1840,41.0055555555556,-81.5508333333333,Ohio
+Old Man'S Cave Lake Dam,Hocking_OH,OH,poor,high,2017-10-18,1972,39.425,-82.53805555555559,Ohio
+Paradise Lakes - North Lake Dam,Preble_OH,OH,poor,high,2016-04-20,1946,39.6119444444444,-84.5086111111111,Ohio
+Paradise Lakes - South Lake Dam,Preble_OH,OH,poor,high,2016-04-20,1946,39.61,-84.5091666666667,Ohio
+Pine Lake Estates Dam,Fairfield_OH,OH,poor,high,2017-03-29,1962,39.6613888888889,-82.5977777777778,Ohio
+Pine Valley Sportsmen'S Lake No. 4 Dam,Jefferson_OH,OH,poor,high,2017-11-02,1964,40.2875,-80.8727777777778,Ohio
+Pleasant Valley Lake Dam,Trumbull_OH,OH,poor,high,2016-05-17,1925,41.20722222222221,-80.6761111111111,Ohio
+Powers Upground Reservoir,Crawford_OH,OH,poor,high,2016-10-11,1954,40.7180555555556,-82.8033333333333,Ohio
+Remick Lake Dam,Warren_OH,OH,poor,high,2016-03-31,1966,39.5783333333333,-84.2263888888889,Ohio
+Ridgewood Lake Dam,Medina_OH,OH,poor,high,2017-05-03,1965,41.1280555555556,-81.6891666666667,Ohio
+Rio Grande Reservoir,Gallia_OH,OH,poor,high,2016-10-25,1959,38.8838888888889,-82.3891666666667,Ohio
+Rocky Fork Lake Dam,Highland_OH,OH,poor,high,2018-05-08,1952,39.184166666666705,-83.4394444444444,Ohio
+Ross Lake Dam,Ross_OH,OH,poor,high,2017-09-19,1967,39.334722222222204,-82.9055555555556,Ohio
+Salerno Lake Dam,Medina_OH,OH,poor,high,2014-09-03,1982,41.0905555555556,-81.7983333333333,Ohio
+Sally Buffalo Park Lake Dam,Harrison_OH,OH,poor,high,2017-10-25,1953,40.2586111111111,-81.0075,Ohio
+Sally Buffalo Park Lake No. 2 Dam,Harrison_OH,OH,poor,high,2017-10-25,1953,40.2591666666667,-81.01111111111109,Ohio
+Sally Buffalo Park Lake No. 4 Dam,Harrison_OH,OH,poor,high,2017-10-25,1953,40.2625,-81.0116666666667,Ohio
+San Toy Dam,Perry_OH,OH,poor,high,2017-05-18,1916,39.637222222222206,-82.03944444444441,Ohio
+Schloss Pond Dam,Geauga_OH,OH,poor,high,2016-05-26,1952,41.371666666666705,-81.04,Ohio
+Shreve Lake Dam,Wayne_OH,OH,unsatisfactory,high,2015-11-19,1962,40.684166666666705,-82.04361111111109,Ohio
+Southern Silica Pond No. 1 Dam,Ross_OH,OH,poor,high,2016-10-06,1955,39.1741666666667,-82.8002777777778,Ohio
+Southern Silica Pond No. 2 Dam,Ross_OH,OH,unsatisfactory,high,2016-10-06,1956,39.1733333333333,-82.7966666666667,Ohio
+Spring Lake Dam,Montgomery_OH,OH,poor,high,2014-12-11,1952,39.8591666666667,-84.1275,Ohio
+Sugarcreek Sportsman Club Lake Dam,Tuscarawas_OH,OH,poor,high,2015-06-11,1957,40.4277777777778,-81.70805555555559,Ohio
+Swift Run Lake Dam,Miami_OH,OH,poor,high,2014-10-23,1876,40.1763888888889,-84.2633333333333,Ohio
+Turkey Creek Lake Dam,Scioto_OH,OH,poor,high,2018-05-24,1966,38.7333333333333,-83.1894444444444,Ohio
+Tycoon Lake Dam,Gallia_OH,OH,poor,high,2016-11-15,1961,38.9222222222222,-82.3533333333333,Ohio
+Upper Girard Lake Dam,Trumbull_OH,OH,poor,high,2016-05-04,1929,41.1936111111111,-80.69472222222221,Ohio
+Upper Shaker Lake Dam,Cuyahoga_OH,OH,unsatisfactory,high,2018-04-18,1852,41.4830555555556,-81.5605555555556,Ohio
+Veto Lake Dam,Washington_OH,OH,poor,high,2017-04-25,1954,39.345,-81.6472222222222,Ohio
+Vo-Ash Lake Dam,Carroll_OH,OH,poor,high,2015-04-02,1956,40.4813888888889,-81.0994444444444,Ohio
+Waller Lake Dam,Lawrence_OH,OH,poor,high,2015-12-01,1955,38.507222222222204,-82.5477777777778,Ohio
+Wellston Reservoir Dam,Jackson_OH,OH,poor,high,2016-11-15,1920,39.14,-82.5183333333333,Ohio
+Wellsville Reservoir Dam,Columbiana_OH,OH,poor,high,2014-04-22,1926,40.621111111111105,-80.6933333333333,Ohio
+White Turkey Lake Dam,Ross_OH,OH,unsatisfactory,high,2017-10-11,1968,39.1961111111111,-82.9897222222222,Ohio
+Woodsfield Reservoir Dam No. 3,Monroe_OH,OH,poor,high,2015-12-08,1992,39.771111111111104,-81.1963888888889,Ohio
+American Fidelity,Oklahoma_OK,OK,poor,high,2014-01-16,1965,35.558433334,-97.50782777799999,Oklahoma
+Carlton Lake,Latimer_OK,OK,poor,high,2016-08-17,1938,34.976883,-95.360454,Oklahoma
+Clayton Lake,Pushmataha_OK,OK,poor,high,2016-08-17,1946,34.543021,-95.30881,Oklahoma
+Fin & Feather,Pittsburg_OK,OK,poor,high,2014-12-23,1933,34.986758894,-95.737953784,Oklahoma
+Goldco Operating Co,Cleveland_OK,OK,poor,high,2013-12-04,1960,35.36646008,-97.56501106,Oklahoma
+Hominy Lake,Osage_OK,OK,poor,high,2017-12-13,1956,36.409531,-96.41472900000001,Oklahoma
+Knight,Oklahoma_OK,OK,poor,high,2015-12-16,1962,35.547894,-97.628201,Oklahoma
+Orchard,Adair_OK,OK,poor,high,2016-09-30,1970,35.805571,-94.595074,Oklahoma
+Pawhuska Lake Dam,Osage_OK,OK,poor,high,2016-11-10,1936,36.644591999999996,-96.395225,Oklahoma
+Sportsmans Club,Oklahoma_OK,OK,poor,high,2015-02-10,1948,35.513428999999995,-97.58597900000001,Oklahoma
+Summit Lake,Cleveland_OK,OK,poor,high,2013-12-28,1960,35.21758189,-97.40241125,Oklahoma
+Weleetka,Okfuskee_OK,OK,poor,high,2017-12-13,1923,35.334140999999995,-96.16384000000001,Oklahoma
+Wewoka,Seminole_OK,OK,poor,high,2017-11-01,1925,35.181326,-96.52689000000001,Oklahoma
+Barnes Butte Reservoir,Crook_OR,OR,poor,high,2017-03-15,1956,44.326671600000005,-120.82611846,Oregon
+Big Creek Reservoir #1 (Lower),Lincoln_OR,OR,unsatisfactory,high,2017-02-01,1951,44.65491104,-124.04379272,Oregon
+Crowley Reservoir,Malheur_OR,OR,unsatisfactory,high,2017-05-02,1938,43.31282043,-117.92700195,Oregon
+Duggan Dam,Jackson_OR,OR,poor,high,2017-06-27,1965,42.47750854,-122.94769287,Oregon
+Ferry Creek,Curry_OR,OR,unsatisfactory,high,2017-09-26,1966,42.07373809,-124.27144622,Oregon
+Johnson Creek Reservoir (Crook),Crook_OR,OR,poor,high,2017-03-15,1951,44.34186935,-120.75550842,Oregon
+Lake Creek Dam,Jackson_OR,OR,poor,high,2017-06-27,1965,42.37558,-122.62459399999999,Oregon
+Lonesome Lake,Malheur_OR,OR,poor,high,2017-05-03,0,43.60771942,-117.02690887,Oregon
+Morgan Lake Dam,Union_OR,OR,poor,high,2017-05-31,1976,45.30485153,-118.13696289,Oregon
+Osborne Creek Dam,Jackson_OR,OR,poor,high,2017-06-27,1964,42.415569299999994,-122.65412139,Oregon
+Pole Creek,Malheur_OR,OR,poor,high,2017-05-03,1944,44.25166702,-117.55333709,Oregon
+Wageman,Douglas_OR,OR,poor,high,2017-06-28,1971,43.10406112,-123.59004974,Oregon
+Wallowa Lake Dam,Wallowa_OR,OR,poor,high,2017-06-01,1931,45.33514022,-117.22263336,Oregon
+Willow Creek 3 (Malheur),Malheur_OR,OR,unsatisfactory,high,2017-05-03,1944,44.35308074,-117.67150115,Oregon
+Woodrat Knob Dam,Jackson_OR,OR,poor,high,2017-06-27,1960,42.40193939,-122.64111328,Oregon
+Anderson Creek,Clearfield_PA,PA,poor_or_unsatisfactory,high,2017-11-07,1903,41.09444439999999,-78.6344444,Pennsylvania
+Beaver Lake,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-05-10,1970,41.7413889,-75.15611109999999,Pennsylvania
+Beaver Lake,Lycoming_PA,PA,poor_or_unsatisfactory,high,2017-11-01,1919,41.2941667,-76.5905556,Pennsylvania
+Beech Mountain Lake,Luzerne_PA,PA,poor_or_unsatisfactory,high,2017-10-20,1966,41.0527778,-75.9255556,Pennsylvania
+Bel-Aire Lake,Susquehanna_PA,PA,poor_or_unsatisfactory,high,2018-05-01,1950,41.9491667,-75.8655556,Pennsylvania
+Bellwood,Blair_PA,PA,poor_or_unsatisfactory,high,2017-10-19,1902,40.6230556,-78.3813889,Pennsylvania
+Belmont,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2018-04-11,1903,41.5908333,-75.4808333,Pennsylvania
+Belmont Lake,Wayne_PA,PA,poor_or_unsatisfactory,high,2017-09-12,1830,41.768055600000004,-75.4438889,Pennsylvania
+Bernhart,Berks_PA,PA,poor_or_unsatisfactory,high,2017-12-07,1865,40.3791667,-75.90777779999999,Pennsylvania
+Boyd Keller Reservoir,Clinton_PA,PA,poor_or_unsatisfactory,high,2017-10-05,1956,41.1252778,-77.3386111,Pennsylvania
+Bradys Run,Beaver_PA,PA,poor_or_unsatisfactory,high,2018-06-08,1949,40.7308333,-80.35611109999999,Pennsylvania
+Brinton Lake,Delaware_PA,PA,poor_or_unsatisfactory,high,2017-11-06,1900,39.896944399999995,-75.5411111,Pennsylvania
+Cadjaw Pond,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-05-07,1914,41.5616667,-75.2738889,Pennsylvania
+Canonsburg No 2,Washington_PA,PA,poor_or_unsatisfactory,high,2017-09-21,1932,40.2541667,-80.11527779999999,Pennsylvania
+Carbaugh Run,Adams_PA,PA,poor_or_unsatisfactory,high,2017-11-15,1960,39.8719444,-77.4502778,Pennsylvania
+Carbondale No 4,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2018-04-11,1892,41.5741667,-75.4591667,Pennsylvania
+Chapman,Warren_PA,PA,poor_or_unsatisfactory,high,2017-09-21,1949,41.7544444,-79.1725,Pennsylvania
+Cherry Valley,Washington_PA,PA,poor_or_unsatisfactory,high,2017-10-25,1947,40.3330556,-80.3316667,Pennsylvania
+Christman,Berks_PA,PA,poor_or_unsatisfactory,high,2017-10-31,1972,40.542777799999996,-75.8858333,Pennsylvania
+Craft Pond,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-04-25,1892,41.4344444,-75.2844444,Pennsylvania
+Curtis,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2018-04-23,1887,41.375,-75.5116667,Pennsylvania
+Dalton Run,Somerset_PA,PA,poor_or_unsatisfactory,high,2018-04-13,1905,40.28,-78.9869444,Pennsylvania
+Deer Lake,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-12-13,1925,40.6213889,-76.05722220000001,Pennsylvania
+Dehart,Dauphin_PA,PA,poor_or_unsatisfactory,high,2017-11-21,1940,40.4616667,-76.7452778,Pennsylvania
+Donegal,Westmoreland_PA,PA,poor_or_unsatisfactory,high,2017-09-19,1967,40.1455556,-79.3702778,Pennsylvania
+Dunmore No 7 Reservoir,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2017-12-28,1872,41.41305560000001,-75.6066667,Pennsylvania
+Earles Lake,Delaware_PA,PA,poor_or_unsatisfactory,high,2017-11-09,1919,40.00944439999999,-75.39,Pennsylvania
+Eaton Reservoir,Erie_PA,PA,poor_or_unsatisfactory,high,2017-10-16,1939,42.146111100000006,-79.7680556,Pennsylvania
+Ebensburg Storage,Cambria_PA,PA,poor_or_unsatisfactory,high,2018-06-15,1923,40.4894444,-78.7175,Pennsylvania
+Edinboro Lake,Erie_PA,PA,poor_or_unsatisfactory,high,2017-08-16,1909,41.8730556,-80.13305559999999,Pennsylvania
+Egelman Reservoir,Berks_PA,PA,poor_or_unsatisfactory,high,2017-12-07,1901,40.3402778,-75.89527779999999,Pennsylvania
+Elmhurst,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2017-07-12,1889,41.3705556,-75.5386111,Pennsylvania
+Ethel Springs,Westmoreland_PA,PA,poor_or_unsatisfactory,high,2018-06-03,1900,40.3386111,-79.30722220000001,Pennsylvania
+Fawn Lake,Pike_PA,PA,poor_or_unsatisfactory,high,2018-06-04,1973,41.2158333,-74.9255556,Pennsylvania
+Greenwood Lake,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-10-20,1880,40.8325,-75.94027779999999,Pennsylvania
+Griffin,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2017-11-30,1888,41.4963889,-75.665,Pennsylvania
+Gunter Valley,Franklin_PA,PA,poor_or_unsatisfactory,high,2017-08-02,1961,40.1380556,-77.6719444,Pennsylvania
+Hallowood Acres,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-10-18,1970,41.0925,-75.1944444,Pennsylvania
+Hankins Pond,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-06-19,1830,41.715,-75.39527779999999,Pennsylvania
+Hinckston,Cambria_PA,PA,poor_or_unsatisfactory,high,2017-08-02,1905,40.3738889,-78.8877778,Pennsylvania
+Huntsville,Luzerne_PA,PA,poor_or_unsatisfactory,high,2017-05-30,1891,41.3075,-75.9744444,Pennsylvania
+Indian Creek,Fayette_PA,PA,poor_or_unsatisfactory,high,2017-12-01,1905,39.9813889,-79.4555556,Pennsylvania
+Indian Mountain Lake,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-11-28,1960,41.0041667,-75.5072222,Pennsylvania
+Indian Run,Berks_PA,PA,poor_or_unsatisfactory,high,2017-11-30,1890,40.24055560000001,-75.8180556,Pennsylvania
+Jennings Pond,Wyoming_PA,PA,poor_or_unsatisfactory,high,2017-11-03,1900,41.5783333,-76.125,Pennsylvania
+John C Smith,Bedford_PA,PA,poor_or_unsatisfactory,high,2017-07-18,1932,40.0347222,-78.52972220000001,Pennsylvania
+Keen Lake,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-02-21,1851,41.591666700000005,-75.3727778,Pennsylvania
+Kenda,Westmoreland_PA,PA,poor_or_unsatisfactory,high,2017-12-19,1932,40.294444399999996,-79.7283333,Pennsylvania
+Kephart,Centre_PA,PA,poor_or_unsatisfactory,high,2017-05-19,1974,40.9183333,-78.0602778,Pennsylvania
+Kintz Creek (Pa-439),Pike_PA,PA,poor_or_unsatisfactory,high,2017-12-20,1970,41.2808333,-75.2308333,Pennsylvania
+Kyle,Jefferson_PA,PA,poor_or_unsatisfactory,high,2017-07-28,1910,41.158055600000004,-78.8377778,Pennsylvania
+Lake Akiba,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-10-13,1926,40.9869444,-75.3725,Pennsylvania
+Lake Carey,Wyoming_PA,PA,poor_or_unsatisfactory,high,2018-04-03,1876,41.5819444,-75.9191667,Pennsylvania
+Lake Choctaw,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-12-20,1974,40.928611100000005,-76.1327778,Pennsylvania
+Lake George,Somerset_PA,PA,poor_or_unsatisfactory,high,2018-06-22,1989,40.0602778,-79.2541667,Pennsylvania
+Lake Hamilton,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-06-11,1954,41.84861110000001,-75.25138890000001,Pennsylvania
+Lake Heritage,Adams_PA,PA,poor_or_unsatisfactory,high,2017-12-01,1966,39.8005556,-77.1925,Pennsylvania
+Lake Heron,Perry_PA,PA,poor_or_unsatisfactory,high,2017-12-07,1970,40.6130556,-76.97361109999999,Pennsylvania
+Lake Lattimore,Pike_PA,PA,poor_or_unsatisfactory,high,2018-04-17,1930,41.2466667,-74.92527779999999,Pennsylvania
+Lake May (Section F),Adams_PA,PA,poor_or_unsatisfactory,high,2017-11-10,1967,39.7413889,-77.3719444,Pennsylvania
+Lake Montrose,Susquehanna_PA,PA,poor_or_unsatisfactory,high,2018-04-20,1919,41.845,-75.8591667,Pennsylvania
+Lake Pinecrest,Luzerne_PA,PA,poor_or_unsatisfactory,high,2018-06-07,1959,41.1863889,-76.245,Pennsylvania
+Lake Quinn,Wayne_PA,PA,poor_or_unsatisfactory,high,2017-06-21,1946,41.508055600000006,-75.42611109999999,Pennsylvania
+Lake Redman,York_PA,PA,poor_or_unsatisfactory,high,2017-08-04,1967,39.8972222,-76.71388890000001,Pennsylvania
+Lake Scranton,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2017-06-13,1898,41.3822222,-75.6366667,Pennsylvania
+Lake Somerset,Somerset_PA,PA,poor_or_unsatisfactory,high,2018-02-20,1956,40.021111100000006,-79.0675,Pennsylvania
+Lake Susquehanna,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-10-05,1973,40.9288889,-76.12361109999999,Pennsylvania
+Lake Swiftwater,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-05-31,1930,41.0988889,-75.2758333,Pennsylvania
+Lake Watawga,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-05-31,1907,41.2394444,-75.4447222,Pennsylvania
+Larsen Lake,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2018-06-07,1910,41.2519444,-75.4572222,Pennsylvania
+Laurel Run No 2,Luzerne_PA,PA,poor_or_unsatisfactory,high,2017-12-06,1885,41.2480556,-75.8175,Pennsylvania
+Laurel Run Reservoir,Elk_PA,PA,poor_or_unsatisfactory,high,2017-09-14,1970,41.416388899999994,-78.6036111,Pennsylvania
+Leavitt Branch (Pa-463),Monroe_PA,PA,poor_or_unsatisfactory,high,2018-04-30,1976,41.2080556,-75.2475,Pennsylvania
+Lehman Lake,Pike_PA,PA,poor_or_unsatisfactory,high,2017-12-20,1890,41.1772222,-75.0022222,Pennsylvania
+Little Pine Creek,Lycoming_PA,PA,poor_or_unsatisfactory,high,2017-10-27,1950,41.355277799999996,-77.355,Pennsylvania
+Lower,Fayette_PA,PA,poor_or_unsatisfactory,high,2017-12-01,1906,39.9430556,-79.8233333,Pennsylvania
+Lower Alford Lake,Susquehanna_PA,PA,poor_or_unsatisfactory,high,2017-11-30,1919,41.8069444,-75.7741667,Pennsylvania
+Lower Mount Pleasant,Luzerne_PA,PA,poor_or_unsatisfactory,high,2018-05-17,1882,40.9180556,-76.0238889,Pennsylvania
+Lower Ridge,Westmoreland_PA,PA,poor_or_unsatisfactory,high,2018-03-06,1915,40.326111100000006,-79.2872222,Pennsylvania
+Lower Tumbling Run,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-11-29,1832,40.675,-76.1805556,Pennsylvania
+Lower Woods Pond,Wayne_PA,PA,poor_or_unsatisfactory,high,2017-09-06,1848,41.7383333,-75.2705556,Pennsylvania
+Maggio Estate No 2,Lycoming_PA,PA,poor_or_unsatisfactory,high,2017-11-09,1953,41.529166700000005,-76.9733333,Pennsylvania
+Marshall Lake,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-04-14,1904,41.0438889,-75.1269444,Pennsylvania
+Martin (Pa-419),Wayne_PA,PA,poor_or_unsatisfactory,high,2018-05-02,1960,41.57,-75.185,Pennsylvania
+Memorial Lake,Lebanon_PA,PA,poor_or_unsatisfactory,high,2018-03-15,1946,40.417777799999996,-76.59222220000001,Pennsylvania
+Middle,Monroe_PA,PA,poor_or_unsatisfactory,high,2018-06-29,1922,41.0494444,-75.1786111,Pennsylvania
+Middle Creek,Lancaster_PA,PA,poor_or_unsatisfactory,high,2017-11-01,1971,40.266388899999995,-76.23777779999999,Pennsylvania
+Mill Run,Blair_PA,PA,poor_or_unsatisfactory,high,2017-08-17,1957,40.5191667,-78.45222220000001,Pennsylvania
+Millers Pond,Bradford_PA,PA,poor_or_unsatisfactory,high,2016-09-28,1919,41.9166667,-76.7166667,Pennsylvania
+Minersville No 4,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-11-09,1912,40.7455556,-76.2805556,Pennsylvania
+Minsi Lake,Northampton_PA,PA,poor_or_unsatisfactory,high,2017-08-03,1970,40.911666700000005,-75.16972220000001,Pennsylvania
+Montgomery,Clearfield_PA,PA,poor_or_unsatisfactory,high,2017-11-09,1960,41.0308333,-78.5119444,Pennsylvania
+Moose Creek Reservoir,Clearfield_PA,PA,poor_or_unsatisfactory,high,2017-11-09,1910,41.055833299999996,-78.4722222,Pennsylvania
+Morris Run No 3,Tioga_PA,PA,poor_or_unsatisfactory,high,2017-10-27,1920,41.6897222,-77.0130556,Pennsylvania
+Mount Airy,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-11-02,1974,41.1125,-75.31777779999999,Pennsylvania
+Mountain Springs Lake,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-12-15,1919,41.01,-75.35611109999999,Pennsylvania
+Negro Pond,Wyoming_PA,PA,poor_or_unsatisfactory,high,2017-11-03,1919,41.585,-76.1625,Pennsylvania
+No 5,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2017-11-14,1888,41.360555600000005,-75.67,Pennsylvania
+North Fork,Somerset_PA,PA,poor_or_unsatisfactory,high,2017-08-15,1932,40.2691667,-79.0038889,Pennsylvania
+North Lake,Pike_PA,PA,poor_or_unsatisfactory,high,2018-07-05,1972,41.211111100000004,-74.9544444,Pennsylvania
+Pa-445,Wayne_PA,PA,poor_or_unsatisfactory,high,2017-11-20,1961,41.3047222,-75.3508333,Pennsylvania
+Pecks Pond,Pike_PA,PA,poor_or_unsatisfactory,high,2018-06-18,1906,41.2808333,-75.08694440000001,Pennsylvania
+Penn Lake,Luzerne_PA,PA,poor_or_unsatisfactory,high,2017-12-06,1905,41.1111111,-75.7694444,Pennsylvania
+Penn Nursery,Centre_PA,PA,poor_or_unsatisfactory,high,2017-04-18,1972,40.775555600000004,-77.61916670000001,Pennsylvania
+Pikes Creek,Luzerne_PA,PA,poor_or_unsatisfactory,high,2017-07-12,1911,41.2658333,-76.045,Pennsylvania
+Pine Run No 1,Luzerne_PA,PA,poor_or_unsatisfactory,high,2018-05-19,1884,41.196388899999995,-75.8916667,Pennsylvania
+Placid Lake,Carbon_PA,PA,poor_or_unsatisfactory,high,2017-09-13,1963,41.0266667,-75.6133333,Pennsylvania
+Pocono Highlands,Monroe_PA,PA,poor_or_unsatisfactory,high,2018-05-10,1928,41.0727778,-75.1075,Pennsylvania
+Reynoldsville Storage #5,Jefferson_PA,PA,poor_or_unsatisfactory,high,2017-08-09,1901,41.1077778,-78.8725,Pennsylvania
+Ringtown No 5,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-11-08,1914,40.8427778,-76.2475,Pennsylvania
+Rocky Glen,Lackawanna_PA,PA,poor_or_unsatisfactory,high,2017-12-21,1903,41.3522222,-75.7044444,Pennsylvania
+Rossiter,Indiana_PA,PA,poor_or_unsatisfactory,high,2017-09-15,1919,40.8875,-78.9219444,Pennsylvania
+Ryerson Station,Greene_PA,PA,poor_or_unsatisfactory,high,2018-03-13,1960,39.89,-80.4494444,Pennsylvania
+Salt Run Reservoir,Cameron_PA,PA,poor_or_unsatisfactory,high,2017-10-31,1911,41.5397222,-78.18638890000001,Pennsylvania
+Sandy Run,Cambria_PA,PA,poor_or_unsatisfactory,high,2017-09-14,1964,40.6572222,-78.4719444,Pennsylvania
+Saw Creek Club,Pike_PA,PA,poor_or_unsatisfactory,high,2017-12-20,1919,41.1597222,-75.0691667,Pennsylvania
+Shickshinny Lake,Luzerne_PA,PA,poor_or_unsatisfactory,high,2018-04-04,1965,41.2061111,-76.1908333,Pennsylvania
+Sonneborn (Witco) Reservoir,Butler_PA,PA,poor_or_unsatisfactory,high,2017-09-20,1951,41.014166700000004,-79.72138890000001,Pennsylvania
+Spring Lake,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-10-20,1983,41.0102778,-75.1605556,Pennsylvania
+Spring Lake,Susquehanna_PA,PA,poor_or_unsatisfactory,high,2017-06-30,1919,41.885,-75.5283333,Pennsylvania
+Sugar Run,Westmoreland_PA,PA,poor_or_unsatisfactory,high,2017-10-04,1907,40.376388899999995,-79.0227778,Pennsylvania
+Sweetwater Lake,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-11-21,1983,41.028611100000006,-75.1605556,Pennsylvania
+Tamarack Lake A (Pa-461A),Crawford_PA,PA,poor_or_unsatisfactory,high,2018-03-28,1962,41.615,-80.1180556,Pennsylvania
+Tobyhanna No 2,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-05-17,1951,41.2,-75.40777779999999,Pennsylvania
+Totem Lake,Bradford_PA,PA,poor_or_unsatisfactory,high,2017-11-03,1919,41.7605556,-76.2438889,Pennsylvania
+Trout Lake,Monroe_PA,PA,poor_or_unsatisfactory,high,2017-03-03,1900,41.0019444,-75.3472222,Pennsylvania
+Union City Reservoir,Erie_PA,PA,poor_or_unsatisfactory,high,2017-10-18,1935,41.9127778,-79.815,Pennsylvania
+University Park Airport Pond 1A,Centre_PA,PA,poor_or_unsatisfactory,high,2016-12-05,1995,40.8427778,-77.8466667,Pennsylvania
+Upper Castanea Reservoir,Clinton_PA,PA,poor_or_unsatisfactory,high,2018-05-28,1869,41.11555560000001,-77.4219444,Pennsylvania
+Upper Mount Pleasant,Luzerne_PA,PA,poor_or_unsatisfactory,high,2018-05-19,1882,40.9213889,-76.0236111,Pennsylvania
+Upper Ridge,Westmoreland_PA,PA,poor_or_unsatisfactory,high,2018-03-06,1915,40.3255556,-79.28527779999999,Pennsylvania
+Upper Tumbling Run,Schuylkill_PA,PA,poor_or_unsatisfactory,high,2017-11-29,1836,40.6788889,-76.1725,Pennsylvania
+Wangaum Falls,Wayne_PA,PA,poor_or_unsatisfactory,high,2018-05-21,1925,41.4927778,-75.2494444,Pennsylvania
+Warren H Ohl,Clinton_PA,PA,poor_or_unsatisfactory,high,2017-11-30,1965,41.0736111,-77.32166670000001,Pennsylvania
+Washington No 3,Washington_PA,PA,poor_or_unsatisfactory,high,2017-11-16,1895,40.145,-80.2641667,Pennsylvania
+Wilmore,Cambria_PA,PA,poor_or_unsatisfactory,high,2017-10-03,1908,40.4091667,-78.6880556,Pennsylvania
+Comerio I Dam,Comerio_PR,PR,poor,high,2017-01-22,1907,18.27,-66.20666999999999,Puerto Rico
+Comerio Ii Dam,Comerio_PR,PR,poor,high,2016-12-15,1913,18.26333,-66.20666999999999,Puerto Rico
+Bucklin Point,Providence_RI,RI,poor,high,2011-11-21,1950,41.851924874299996,-71.3656844533,Rhode Island
+Burlingame Reservoir Upper,Providence_RI,RI,poor,high,2014-05-08,1885,41.9140891811,-71.7423782092,Rhode Island
+Butterfly Pond,Providence_RI,RI,poor,high,2010-06-15,1883,41.9071121554,-71.4321594247,Rhode Island
+Carr Pond,Washington_RI,RI,poor,high,2014-08-01,1800,41.5202789277,-71.4445571677,Rhode Island
+Centerville Pond,Kent_RI,RI,poor,high,2016-08-29,1885,41.6968612671,-71.5210952829,Rhode Island
+Cranston Print Works Pond,Providence_RI,RI,poor,high,2017-03-28,1825,41.793464666300004,-71.459709189,Rhode Island
+Easton Pond South,Newport_RI,RI,poor,high,2013-08-22,1876,41.490493762199996,-71.2868271098,Rhode Island
+Flat River Reservoir,Kent_RI,RI,poor,high,2016-05-18,1873,41.6944351206,-71.5947265279,Rhode Island
+Forestdale Pond,Providence_RI,RI,poor,high,2017-05-11,1883,41.996070860900005,-71.5640639717,Rhode Island
+Harrisville Pond,Providence_RI,RI,poor,high,2016-06-23,1854,41.9657402423,-71.6748657084,Rhode Island
+Hawkins Pond,Providence_RI,RI,poor,high,2016-07-06,1865,41.9182128893,-71.7948227033,Rhode Island
+Hefler Farm Pond,Washington_RI,RI,poor,high,2017-03-07,1972,41.4547576795,-71.5029907186,Rhode Island
+Keech Pond,Providence_RI,RI,poor,high,2016-07-06,1952,41.8843994459,-71.68824006,Rhode Island
+Miscoe Lake,Providence_RI,RI,poor,high,2014-08-20,1937,42.0076522716,-71.417114219,Rhode Island
+Moffett Pond,Providence_RI,RI,poor,high,2011-12-08,1883,41.9050979537,-71.4251861909,Rhode Island
+Natick Pond,Kent_RI,RI,poor,high,2010-04-29,1886,41.7173805192,-71.4924010838,Rhode Island
+Nelson Pond,Newport_RI,RI,poor,high,2013-08-28,1885,41.4913482687,-71.2627640276,Rhode Island
+Peace Dale Pond,Washington_RI,RI,poor,high,2017-11-03,1847,41.4524116567,-71.49524684229999,Rhode Island
+Pearce Pond,Kent_RI,RI,poor,high,2016-07-15,1903,41.723659999999995,-71.53926,Rhode Island
+Simmons Lower Reservoir,Providence_RI,RI,poor,high,2010-09-09,1865,41.7911491273,-71.50913243149999,Rhode Island
+Slack Reservoir,Providence_RI,RI,poor,high,2013-10-02,1885,41.868793517,-71.5532531883,Rhode Island
+Slatersville Reservoir Middle,Providence_RI,RI,poor,high,2016-06-13,1886,41.9976997076,-71.58184812729999,Rhode Island
+Slocum Reservoir,Washington_RI,RI,poor,high,2010-05-24,1855,41.539916999,-71.52001184529999,Rhode Island
+Westconnaug Reservoir,Providence_RI,RI,poor,high,2014-08-08,1924,41.7722587756,-71.67716974529999,Rhode Island
+Wilbur Pond,Providence_RI,RI,poor,high,2015-04-26,1854,41.9302215611,-71.7644271673,Rhode Island
+Wilson Reservoir,Providence_RI,RI,poor,high,2013-10-30,1866,41.966152178200005,-71.7223281955,Rhode Island
+Wyoming Upper,Washington_RI,RI,poor,high,2014-06-05,1885,41.5159225517,-71.7034072926,Rhode Island
+Yorker Mill Pond,Washington_RI,RI,poor,high,2013-08-07,1855,41.5217064746,-71.523245763,Rhode Island
+Jones,Wasatch_UT,UT,poor,high,2017-06-27,1956,40.48518785342,-111.26239485049999,Utah
+Mountain Dell,Salt Lake_UT,UT,poor,high,2017-05-09,1916,40.752405014370005,-111.72098897629999,Utah
+Palisades Lake,Sanpete_UT,UT,poor,high,2017-10-05,1899,39.20517332648,-111.67241988059999,Utah
+Red Pine,Salt Lake_UT,UT,poor,high,2018-06-19,1929,40.5455996248,-111.694420576,Utah
+Beaver Creek Dam,Henry County_VA,VA,poor,high,2018-05-08,0,36.7433,-79.875,Virginia
+Beaverdam Creek Dam,Bedford County_VA,VA,poor,high,2017-10-25,0,37.3128,-79.8155,Virginia
+College Lake Dam,City Of Lynchburg_VA,VA,poor,high,2019-01-12,0,37.4016,-79.184,Virginia
+Falls Mill Dam,Tazewell County_VA,VA,poor,high,1991-11-15,0,37.2722,-81.3229,Virginia
+Godwins Millpond Dam,City Of Suffolk_VA,VA,poor,high,2018-12-10,0,36.8638,-76.5821,Virginia
+Lake Cohoon Dam,City Of Suffolk_VA,VA,unsatisfactory,high,2002-05-20,0,36.7549,-76.6277,Virginia
+Lake Powhatan Dam,Pulaski County_VA,VA,poor,high,2014-11-17,0,36.9642,-80.6637,Virginia
+Lake Smith Dam,City Of Virginia Beach_VA,VA,poor,high,2018-05-09,0,36.8932,-76.1631,Virginia
+Lake Summit Dam,City Of Lynchburg_VA,VA,poor,high,2019-03-18,0,37.3596,-79.2443,Virginia
+Little Creek Dam,James City County_VA,VA,poor,high,2019-04-03,0,37.3504,-76.8407,Virginia
+South River Dam #19,Augusta County_VA,VA,poor,high,2018-05-30,0,38.0133,-78.9695,Virginia
+Thompson Dam,Fauquier County_VA,VA,poor,high,2016-03-09,0,38.9571,-77.9922,Virginia
+Twin Lakes Dam #2,Greene County_VA,VA,poor,high,2018-01-25,0,38.2499,-78.4409,Virginia
+Winston Lake Dam,City Of Richmond_VA,VA,poor,high,2015-11-18,0,37.544000000000004,-77.5918,Virginia
+Woodland Pond,Chesterfield County_VA,VA,poor,high,2018-06-22,0,37.352,-77.5422,Virginia
+Chestnut Hill Reservoir,Windham_VT,VT,poor,high,2017-06-12,1884,42.8539619445801,-72.56666564941409,Vermont
+East Long Pond,Washington_VT,VT,poor,high,2017-06-27,1930,44.4492301940918,-72.3468704223633,Vermont
+Institute Pond,Caledonia_VT,VT,poor,high,2017-07-19,1911,44.537078857421896,-72.0163803100586,Vermont
+Lake Sadawga,Windham_VT,VT,poor,high,2017-07-06,1880,42.789009094238295,-72.88050842285159,Vermont
+Snow Lake,Windham_VT,VT,poor,high,2017-08-02,1961,42.9639472961426,-72.88868713378909,Vermont
+Stiles Pond,Caledonia_VT,VT,poor,high,2017-06-20,1877,44.42204284667971,-71.94635009765629,Vermont
+Sweet Pond,Windham_VT,VT,unsatisfactory,high,2017-06-12,1928,42.750816345214794,-72.6355514526367,Vermont
+Waterbury,Washington_VT,VT,poor,high,2017-08-03,1938,44.3812866210938,-72.76768493652341,Vermont
+Windsor Upper,Windsor_VT,VT,poor,high,2016-06-23,1834,43.4763069152832,-72.395393371582,Vermont
+Beryl Baker Dam,Stevens_WA,WA,poor,high,2015-09-10,1977,48.069468,-117.53836799999999,Washington
+Black Rock Orchards Dam,Yakima_WA,WA,poor,high,2015-06-08,1985,46.499603637662794,-120.09961830555599,Washington
+Camp Kwoneesum Dam,Skamania_WA,WA,poor,high,2015-11-17,1964,45.671351,-122.21886699999999,Washington
+Davenport Sewage Lagoon No. 3,Lincoln_WA,WA,poor,high,2016-07-15,1987,47.667547,-118.141719,Washington
+Den Hoed Dam No. 1,Yakima_WA,WA,poor,high,2015-10-29,1999,46.3755495,-119.96410244444401,Washington
+Fanchers Dam,Okanogan_WA,WA,poor,high,2016-08-11,1926,48.8292,-119.261627,Washington
+Gap Road Reservoir,Benton_WA,WA,poor,high,2015-06-09,2004,46.2539686038016,-119.788983111111,Washington
+Kayak Lake Dam,Snohomish_WA,WA,poor,high,2018-08-02,1965,47.782211,-121.931649,Washington
+Koura Dam,Kitsap_WA,WA,poor,high,2017-08-17,1949,47.662577,-122.54331499999999,Washington
+Meadow Lake Dam,Chelan_WA,WA,poor,high,2017-07-11,1920,47.360339,-120.21472800000001,Washington
+Newman Lake Flood Control Dam,Spokane_WA,WA,poor,high,2017-07-14,1976,47.771155,-117.077871,Washington
+Nielsen Dam C,Snohomish_WA,WA,poor,high,2017-08-09,1973,47.783788,-122.208179,Washington
+Parker Reservoir Dam,Yakima_WA,WA,unsatisfactory,high,2017-06-28,1955,46.570861,-120.72935,Washington
+Spokane Hutterian Brethren Dam,Spokane_WA,WA,unsatisfactory,high,2014-04-09,2006,47.689156,-117.719169,Washington
+Upper Sunlight Lake Dam,Kittitas_WA,WA,poor,high,2015-11-19,1967,47.126003000000004,-120.77509199999999,Washington
+Zirkle Partridge Ranch Dam,Grant_WA,WA,poor,high,2015-08-11,2010,46.7608040555556,-119.700778582052,Washington
+Friendship,Adams_WI,WI,poor,high,2018-02-13,1928,43.97502,-89.8166,Wisconsin
+Lake Camelot,Adams_WI,WI,poor,high,2016-08-23,1969,44.20451,-89.77512,Wisconsin
+Mead,Clark_WI,WI,poor,high,2012-04-19,1951,44.7890755,-90.772712,Wisconsin
+Montello Granite,Marquette_WI,WI,poor,high,2016-09-08,1914,43.793378499999996,-89.3288755,Wisconsin
+Poy Sippi,Waushara_WI,WI,poor,high,2017-10-20,1935,44.13617,-88.99738,Wisconsin
+Spring Creek,Portage_WI,WI,poor,high,2015-06-14,1854,44.38964,-89.30584,Wisconsin
+Antero Resources Rossco Pond Dam,Harrison_WV,WV,poor,high,2011-07-15,2010,39.31434,-79.58651,West Virginia
+B & O Dam,Preston_WV,WV,poor,high,2017-08-28,1904,39.37917,-78.16111,West Virginia
+Bear Rocks Lake No.1,Ohio_WV,WV,poor,high,2015-04-20,1951,40.073609999999995,-79.4675,West Virginia
+Bear Rocks Lake No.2,Ohio_WV,WV,poor,high,2015-04-20,1948,40.077220000000004,-79.46694000000001,West Virginia
+Bear Rocks Lake No.3,Ohio_WV,WV,poor,high,2015-04-20,1948,40.08167,-79.46444,West Virginia
+Bluewell Water Supply Dam No.1,Mercer_WV,WV,poor,high,2018-05-15,1966,37.30222,-80.74806,West Virginia
+Bluewell Water Supply Dam No.2,Mercer_WV,WV,poor,high,2018-05-15,1966,37.30833,-80.75278,West Virginia
+Camp Caesar Dam,Webster_WV,WV,poor,high,2018-02-11,1955,38.4125,-79.5125,West Virginia
+Conaway Run Dam,Tyler_WV,WV,poor,high,2018-03-15,1963,39.42028,-79.15278,West Virginia
+Culloden Water Supply Dam,Cabell_WV,WV,poor,high,2015-07-14,1963,38.41333,-81.94028,West Virginia
+Fairfax Pond,Preston_WV,WV,poor,high,2016-05-18,1950,39.49389,-78.20278,West Virginia
+Flat Top Lake Dam,Raleigh_WV,WV,poor,high,2018-07-11,1950,37.628890000000006,-80.90139,West Virginia
+Hatfield Farm Lake,Cabell_WV,WV,poor,high,2015-10-28,1955,38.382220000000004,-81.76722,West Virginia
+Horton Dam,Mercer_WV,WV,poor,high,2018-03-20,1929,37.279720000000005,-80.82417,West Virginia
+Huffman Dam,Mason_WV,WV,poor,high,2015-11-05,2010,38.9275,-80.04944,West Virginia
+Lake Of Eden,Cabell_WV,WV,poor,high,2015-07-14,1971,38.40889,-81.74694000000001,West Virginia
+Lake Stephens Dam,Raleigh_WV,WV,poor,high,2018-02-12,1963,37.77694,-80.69111,West Virginia
+Lough Lake,Monongalia_WV,WV,poor,high,2017-02-17,1950,39.62389,-79.91528000000001,West Virginia
+Lynch Lake,Monongalia_WV,WV,poor,high,2013-01-11,1947,39.62167,-79.90583000000001,West Virginia
+New Bramwell Dam,Mercer_WV,WV,poor,high,2018-05-15,1970,37.31944,-80.69360999999999,West Virginia
+New Lumberport Dam,Harrison_WV,WV,poor,high,2016-04-06,1981,39.38111,-79.63972,West Virginia
+Scott Lake,Randolph_WV,WV,poor,high,2014-08-19,1949,38.81361,-78.12306,West Virginia
+Tennants Farm Pond,Wood_WV,WV,poor,high,2015-11-05,1953,39.27694,-80.58333,West Virginia
+Upper Smith Dam,Wood_WV,WV,poor,high,2015-03-12,1955,39.23417,-80.42194,West Virginia
+Bear Claw Love No. 1,Sheridan_WY,WY,poor,high,2017-06-27,1966,44.9033333333333,-107.333333333333,Wyoming
+Bull Lake,Fremont_WY,WY,poor,high,2016-06-29,1938,43.210278,-109.0425,Wyoming
+Cardine Keith,Natrona_WY,WY,poor,high,2017-04-24,1975,42.691944444444395,-106.123055555556,Wyoming
+Dome Lake No. 1,Sheridan_WY,WY,poor,high,2015-09-09,1969,44.5916666666667,-107.29638888888901,Wyoming
+Dull Knife,Johnson_WY,WY,poor,high,2017-06-28,1966,44.019444444444396,-107.053333333333,Wyoming
+Enl. Turpin Park,Carbon_WY,WY,poor,high,2016-10-25,1957,41.4438888888889,-106.385833333333,Wyoming
+Glendo,Platte_WY,WY,poor,high,2017-06-20,1958,42.4794,-104.95,Wyoming
+Guernsey,Platte_WY,WY,poor,high,2017-06-21,1927,42.29,-104.763333333333,Wyoming
+Jackson Lake,Teton_WY,WY,poor,high,2014-06-04,1911,43.86,-110.59,Wyoming
+Kemmerer,Lincoln_WY,WY,poor,high,2013-06-19,1942,41.9389,-110.645833333333,Wyoming
+Leavitt,Big Horn_WY,WY,poor,high,2017-05-10,1956,44.6430555555556,-107.86305555555599,Wyoming
+Middle Piney,Sublette_WY,WY,poor,high,2013-06-07,1940,42.6036111111111,-110.566111111111,Wyoming
+O S W,Fremont_WY,WY,poor,high,2017-06-05,1912,43.27722222222221,-107.682777777778,Wyoming
+Pathfinder,Natrona_WY,WY,poor,high,2017-04-18,1909,42.467997533333296,-106.85409111,Wyoming
+Pathfinder Dike,Natrona_WY,WY,poor,high,2017-04-18,1909,42.4647347,-106.85260611,Wyoming
+Seminoe,Carbon_WY,WY,poor,high,2017-07-20,1939,42.1566666666667,-106.90833333333299,Wyoming
+Spring Creek (Enlargement),Carbon_WY,WY,poor,high,2016-07-14,1921,42.2630555555556,-106.669722222222,Wyoming
+Washington Memorial,Crook_WY,WY,poor,high,2014-10-27,1987,44.40667,-104.36667,Wyoming
